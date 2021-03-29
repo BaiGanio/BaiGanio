@@ -7,6 +7,16 @@
 <a href="https://github.com/BaiGanio/BaiGanio">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=40" alt="Martin's GitHub Stats" />
 </a>
+
+---
+
+<!--
+## Stargazers
+
+[![Stargazers repo roster for @BaiGanio/BaiGanio](https://reporoster.com/stars/BaiGanio/BaiGanio)](https://github.com/BaiGanio/BaiGanio/stargazers)
+
+-->
+
 <!--
 **BaiGanio/baiganio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
