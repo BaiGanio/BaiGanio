@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/BaiGanio/BaiGanio">
@@ -11,6 +11,7 @@
 ---
 
 <!--
+### Hi there 👋
 ## Stargazers
 
 [![Stargazers repo roster for @BaiGanio/BaiGanio](https://reporoster.com/stars/BaiGanio/BaiGanio)](https://github.com/BaiGanio/BaiGanio/stargazers)
