@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/BaiGanio/BaiGanio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=40" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=40" alt="BaiGanio's GitHub Stats" />
 </a>
 
 ---
