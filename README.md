@@ -17,22 +17,22 @@
 
 
 ### Working Demos
- - <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
+ - Site: <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
    - Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more...
    - [repo files](https://github.com/BaiGanio/baiganio.github.io)
- - <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
+ - Site: <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
    - Pure JS & Bootstrap shugar
    - [repo files](https://github.com/BaiGanio/js4b)
- - <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
+ - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
    - React App backed with .NET Web API & SQL Server
    - [repo files](https://github.com/BaiGanio/backoffice) 
-- <a target="_blank" href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
+- Site: <a target="_blank" href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
    - Pure JS + Bootstrap shugar + jQuery + Google Firebase
    - [repo files](https://github.com/BaiGanio/space-university) 
-- <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
+- Site: <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
    - React App with GraphQL example
    - [repo files](https://github.com/BaiGanio/Scrooge-Rental) 
-- <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
+- Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
 
