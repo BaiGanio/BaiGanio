@@ -14,15 +14,15 @@
 ### Working Demos
  - <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
    - Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more...
- - <a href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
+ - <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
    - Pure JS & Bootstrap shugar
- - <a href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
+ - <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
    - React App backed with .NET Web API & SQL Server
-- <a href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
+- <a target="_blank" href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
    - Pure JS + Bootstrap shugar + jQuery + Google Firebase
-- <a href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
+- <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
    - React App with GraphQL example
-- <a href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
+- <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
 
 ---
