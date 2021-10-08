@@ -12,6 +12,8 @@
 
 
 ### Working Demos
+ - <a href="https://baiganio.github.io/">https://baiganio.github.io/</a>
+   - Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more...
  - <a href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
    - Pure JS & Bootstrap shugar
  - <a href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
@@ -20,7 +22,8 @@
    - Pure JS + Bootstrap shugar + jQuery + Google Firebase
 - <a href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
    - React App with GraphQL example
-
+- <a href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
+   - Angular App backed with .NET Web API, SQL Server & Azure Functions
 
 ---
 
