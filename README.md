@@ -38,7 +38,7 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
    - [repo files](https://github.com/BaiGanio/js4b)
 - Site: <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">https://team-kepler.github.io/looney-tooney/CanvasGame.html</a>
    - Pure JS game as a team project back in the days...
-
+   - [repo files](https://github.com/Team-Kepler/looney-tooney)
 
 ---
 
