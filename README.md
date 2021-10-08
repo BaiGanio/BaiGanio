@@ -36,6 +36,9 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
 - Site: <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
    - Pure JS & Bootstrap shugar
    - [repo files](https://github.com/BaiGanio/js4b)
+- Site: <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">https://team-kepler.github.io/looney-tooney/CanvasGame.html</a>
+   - Pure JS game as a team project back in the days...
+
 
 ---
 
