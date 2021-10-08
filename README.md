@@ -11,7 +11,16 @@
 ---
 
 
-## Working Demos
+### Working Demos
+ - <a href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
+   - Pure JS & Bootstrap shugar
+ - <a href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
+   - React App backed with .NET Web API & SQL Server
+- <a href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
+   - Pure JS + Bootstrap shugar + jQuery + Google Firebase
+- <a href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
+   - React App with GraphQL example
+
 
 ---
 
