@@ -17,24 +17,25 @@
 
 
 ### Working Demos
+Read the _`README.md`_ file in each repo, otherwise the working demo might turn into broken one... ;) 😄🤔
  - Site: <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
    - Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more...
    - [repo files](https://github.com/BaiGanio/baiganio.github.io)
- - Site: <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
-   - Pure JS & Bootstrap shugar
-   - [repo files](https://github.com/BaiGanio/js4b)
  - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
    - React App backed with .NET Web API & SQL Server
    - [repo files](https://github.com/BaiGanio/backoffice) 
-- Site: <a target="_blank" href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
-   - Pure JS + Bootstrap shugar + jQuery + Google Firebase
-   - [repo files](https://github.com/BaiGanio/space-university) 
 - Site: <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/">https://baiganio.github.io/Scrooge-Rental/</a>
    - React App with GraphQL example
    - [repo files](https://github.com/BaiGanio/Scrooge-Rental) 
 - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
+- Site: <a target="_blank" href="https://baiganio.github.io/space-university/">https://baiganio.github.io/space-university/</a>
+   - Pure JS + Bootstrap shugar + jQuery + Google Firebase
+   - [repo files](https://github.com/BaiGanio/space-university) 
+- Site: <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
+   - Pure JS & Bootstrap shugar
+   - [repo files](https://github.com/BaiGanio/js4b)
 
 ---
 
