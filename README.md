@@ -1,6 +1,6 @@
 
 <a href="https://baiganio.github.io/space-university/">
-  <img src="/images/lil.jpg" width="100%">
+  <img src="./images/lil.png" width="100%">
 </a>
 <p align="center">
   <a href="#">
