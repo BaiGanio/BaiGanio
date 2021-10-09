@@ -1,6 +1,6 @@
 
 <a href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist">
-  <img src="./images/lil8.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
+  <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
 <p align="center">
   <a href="#">
@@ -35,6 +35,7 @@
 Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
+  <!-- Scrooge Rental & Space University section -->
   <tr>
     <td valign="top">
       <h3>Scrooge Rental</h3>
@@ -61,6 +62,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
     </td>
   </tr>  
+  <!-- Wtf & Looney Tooney section -->    
   <tr>
     <td valign="top">
       <h3>JS4B</h3>
@@ -86,11 +88,12 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
     </td>
   </tr>
+ <!-- Free IS4 & BGAPI section -->                                                                              
   <tr>                                                                         
     <td valign="top">
       <h3>Free IS4</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site</em></a>)</p>
-       ...
+       Should be Blazor Web App, but don't know at what timeline should happen ;)
       <br/>
       <br/>
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
@@ -114,9 +117,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     </td>
   </tr>
 </table>
-
- 
-                                                                              
+                                                              
 ---
 
  - Site: <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
@@ -128,6 +129,9 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
  - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
+ - Site: <a target="_blank" href="https://baiganio.github.io/js4b/">https://baiganio.github.io/js4b/</a>
+   - Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
+   - [repo files](https://github.com/BaiGanio/js4b) 
   
 ---
 
