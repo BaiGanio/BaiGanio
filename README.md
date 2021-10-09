@@ -87,8 +87,31 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
     </td>
   </tr>
+                                                                              
+   <td width="33%" valign="top">
+      <h3>Company House</h3>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/company-house"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/company-house/"><em>Site</em></a>)</p>
+       Angular App backed with .NET Web API, SQL Server & Azure Functions
+      <br/>
+      <br/>
+      <a href="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif">
+        <img src="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif" width="100%" alt="company-house" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Looney Tooney</h3>
+      <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
+      Angular App backed with .NET Web API, SQL Server & Azure Functions
+      <br/>
+      <br/>
+      <br/>
+     
+    </td>
+  </tr>
 </table>
 
+ 
+                                                                              
 ---
 
  - Site: <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
@@ -99,7 +122,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
    - [repo files](https://github.com/BaiGanio/backoffice) 
 
 - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
-   - Angular App backed with .NET Web API, SQL Server & Azure Functions
+   - 
    - [repo files](https://github.com/BaiGanio/company-house) 
 ---
 
