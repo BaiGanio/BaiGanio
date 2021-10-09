@@ -28,9 +28,9 @@
 <a href="https://github.com/BaiGanio/BaiGanio">
   <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=28" alt="BaiGanio's GitHub Stats" />
 </a>
-
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio)](https://github.com/BaiGanio/github-readme-stats)
-
+-->
 ---
 
 ### _Working Projects_
