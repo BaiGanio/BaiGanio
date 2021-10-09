@@ -31,6 +31,9 @@
 
 ---
 
+### Working Demos
+Read the _`README.md`_ file in each repo, otherwise the working demo might turn into broken one... ;) 😄🤔
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
@@ -58,12 +61,35 @@
       </a>
     </td>
   </tr>
+  
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Scrooge Rental</h3>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="baiganio.github.io/scrooge-rental/"><em>Site</em></a>)</p>
+        Demo example on how rent-a-car site might look like. 
+      <br/>
+        Built using React.js, Firebase, Material UI, GraphQL...
+      <br/>
+      <br/>
+      <a href="https://baiganio.github.io/scrooge-rental/">
+        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Looney Tooney</h3>
+      <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
+        Pure JS game as a team project back in the days...
+      <br/>
+      <br/>
+      <a href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
+        <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### Working Demos
-Read the _`README.md`_ file in each repo, otherwise the working demo might turn into broken one... ;) 😄🤔
  - Site: <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
    - Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more...
    - [repo files](https://github.com/BaiGanio/baiganio.github.io)
@@ -78,10 +104,6 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
 - Site: <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
    - Pure JS & Bootstrap shugar
    - [repo files](https://github.com/BaiGanio/js4b)
-- Site: <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">https://team-kepler.github.io/looney-tooney/CanvasGame.html</a>
-   - Pure JS game as a team project back in the days...
-   - [repo files](https://github.com/Team-Kepler/looney-tooney)
-
 ---
 
 <!--
