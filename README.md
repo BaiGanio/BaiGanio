@@ -1,5 +1,5 @@
 
-<a href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist">
+<a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
 <p align="center">
@@ -65,11 +65,11 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
   <!-- OEG & Looney Tooney section -->    
   <tr>
     <td valign="top">
-      <h3>Octopus Energy germany</h3>
+      <h3>Octopus Energy Germany (OEG)</h3>
       <p>(<a target="_blank" href="https://my.octopusenergy.de/quote"><em>Site</em></a>)</p>
-        React implementation of migration over old Angular one.
+        Digital energy retailer I work for.
       <br/>
-        Use post code 01139
+        React, Angular & Azure Service Fabric.
       <br/>
       <br/>
       <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
