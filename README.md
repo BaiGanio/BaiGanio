@@ -1,19 +1,22 @@
 
-![alt](https://miro.medium.com/max/875/0*JKyzq_e9TUlb84wX) 
+<a href="https://miro.medium.com/max/875/0*JKyzq_e9TUlb84wX">
+  <img src="https://miro.medium.com/max/875/0*JKyzq_e9TUlb84wX" width="100%">
+</a>
 <p align="center">
-  <a href="https://caitlinfloyd.com/">
+  <a href="#">
     <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
-  <a href="https://www.linkedin.com/in/caitlinfloyd/">
+  <a href="#">
     <img src="./images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/caitlinfloyd">
+  <a href="#">
     <img src="./images/branded-twitter.png" width="30px;" alt="Twitter" />
   </a>
-  <a href="https://medium.com/@caitlinfloyd">
+  <a href="#">
     <img src="./images/branded-medium.png" width="30px;" alt="Medium"/>
   </a>
 </p>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/BaiGanio/BaiGanio">
