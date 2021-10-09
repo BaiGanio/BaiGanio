@@ -72,8 +72,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         Use post code 01139
       <br/>
       <br/>
-      <a href="https://my.octopusenergy.de/quote">
-        <img src="./images/oeg.gif" width="100%" alt="js4b"/>
+      <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
+        <img src="./images/oeg.gif" width="100%" alt="oeg"/>
       </a>
     </td>
     <td valign="top">
@@ -83,7 +83,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
        <br/>
       <br/>
       <br/>
-      <a href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
+      <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/looney-tooney.gif">
         <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
       </a>
     </td>
