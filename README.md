@@ -1,6 +1,6 @@
 
-<a href="https://www.bbc.com/news/in-pictures-35639575">
-  <img src="./images/lil.png" width="100%" alt="In pictures: Sony World Photography Awards shortlist">
+<a href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist">
+  <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
 <p align="center">
   <a href="#">
