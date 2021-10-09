@@ -62,18 +62,18 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
     </td>
   </tr>  
-  <!-- Wtf & Looney Tooney section -->    
+  <!-- OEG & Looney Tooney section -->    
   <tr>
     <td valign="top">
-      <h3>JS4B</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/js4b"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/js4b/"><em>Site</em></a>)</p>
-        Pure JS & Bootstrap sugar
+      <h3>Octopus Energy germany</h3>
+      <p>(<a target="_blank" href="https://my.octopusenergy.de/quote"><em>Site</em></a>)</p>
+        React implementation of migration over old Angular one.
       <br/>
-        Basic example on how to fetch data from external API
+        Use post code 01139
       <br/>
       <br/>
-      <a href="https://baiganio.github.io/js4b/"">
-        <img src="./images/js4b.PNG" width="100%" alt="js4b"/>
+      <a href="https://my.octopusenergy.de/quote">
+        <img src="./images/oeg.gif" width="100%" alt="js4b"/>
       </a>
     </td>
     <td valign="top">
