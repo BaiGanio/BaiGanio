@@ -19,7 +19,8 @@
   </a>
 </p>
 
-### &#x1f4c8; _Some Statistics_
+---
+### &#x1f4c8; _Statistics_
 
 <a href="https://github.com/BaiGanio/BaiGanio">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
@@ -28,12 +29,16 @@
 <a href="https://github.com/BaiGanio/BaiGanio">
   <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=28" alt="BaiGanio's GitHub Stats" />
 </a>
+
 <!--
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio)](https://github.com/BaiGanio/github-readme-stats)
+
 -->
+
 ---
 
-### _Working Projects_
+### _Projects_
 Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
