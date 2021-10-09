@@ -19,9 +19,39 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/BaiGanio/BaiGanio">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact" />
-</a>
+<table>
+  <tr>
+    <td>
+    <a href="https://github.com/BaiGanio/BaiGanio">
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact" />
+    </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=66b2b2" alt="javascript"> <br/>
+      <img src="https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=66b2b2" alt="ruby"> <br/>
+      <img src="https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=66b2b2" alt="dart"> <br/>
+      <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=66b2b2" alt="python"> <br/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Web%20Dev-React-informational?style=flat&logo=react&logoColor=white&color=66b2b2" alt="react"> <br/>
+      <img src="https://img.shields.io/badge/Web%20Dev-Redux-informational?style=flat&logo=Redux&logoColor=white&color=66b2b2" alt="redux"> <br/>
+      <img src="https://img.shields.io/badge/Web%20Dev-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=66b2b2" alt="node.js"> <br/>
+      <img src="https://img.shields.io/badge/Web%20Dev-CSS-informational?style=flat&logo=css3&logoColor=white&color=66b2b2" alt="css"> <br/>
+      <img src="https://img.shields.io/badge/Web%20Dev-HTML-informational?style=flat&logo=html5&logoColor=white&color=66b2b2" alt="html"> <br/>
+      <img src="https://img.shields.io/badge/Web%20Dev-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=66b2b2" alt="gatsby"> <br/>
+      <img src="https://img.shields.io/badge/Web%20Dev-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=66b2b2" alt="bootstrap"> <br/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=66b2b2" alt="git"> <br/>
+      <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=66b2b2" alt="github"> <br/>
+      <img src="https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=GNU-bash&logoColor=white&color=66b2b2" alt="bash"> <br/>
+      <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=66b2b2" alt="postgresql"> <br/>
+      <img src="https://img.shields.io/badge/Tool-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=66b2b2" alt="netlify"> <br/>
+    </td>
+  </tr>
+</table>
+
+
 <a href="https://github.com/BaiGanio/BaiGanio">
   <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true" alt="BaiGanio's GitHub Stats" />
 </a>
@@ -68,37 +98,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafloyd&layout=compact&langs_count=6" alt="top languages">
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=66b2b2" alt="javascript"> <br/>
-      <img src="https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=66b2b2" alt="ruby"> <br/>
-      <img src="https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=66b2b2" alt="dart"> <br/>
-      <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=66b2b2" alt="python"> <br/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Web%20Dev-React-informational?style=flat&logo=react&logoColor=white&color=66b2b2" alt="react"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-Redux-informational?style=flat&logo=Redux&logoColor=white&color=66b2b2" alt="redux"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=66b2b2" alt="node.js"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-CSS-informational?style=flat&logo=css3&logoColor=white&color=66b2b2" alt="css"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-HTML-informational?style=flat&logo=html5&logoColor=white&color=66b2b2" alt="html"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=66b2b2" alt="gatsby"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=66b2b2" alt="bootstrap"> <br/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=66b2b2" alt="git"> <br/>
-      <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=66b2b2" alt="github"> <br/>
-      <img src="https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=GNU-bash&logoColor=white&color=66b2b2" alt="bash"> <br/>
-      <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=66b2b2" alt="postgresql"> <br/>
-      <img src="https://img.shields.io/badge/Tool-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=66b2b2" alt="netlify"> <br/>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
