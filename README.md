@@ -38,7 +38,7 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
   <tr>
     <td width="33%" valign="top">
       <h3>Scrooge Rental</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="baiganio.github.io/scrooge-rental/"><em>Site</em></a>)</p>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/scrooge-rental/"><em>Site</em></a>)</p>
         Demo example on how rent-a-car site might look like. 
       <br/>
         Built using React.js, Firebase, Material UI, GraphQL...
@@ -64,15 +64,15 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
   
   <tr>
     <td width="33%" valign="top">
-      <h3>Scrooge Rental</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="baiganio.github.io/scrooge-rental/"><em>Site</em></a>)</p>
-        Demo example on how rent-a-car site might look like. 
+      <h3>JS4B</h3>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/js4b"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/js4b/"><em>Site</em></a>)</p>
+        Pure JS & Bootstrap sugar
       <br/>
-        Built using React.js, Firebase, Material UI, GraphQL...
+        Basic example on how to fetch data from external API
       <br/>
       <br/>
-      <a href="https://baiganio.github.io/scrooge-rental/">
-        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+      <a href="https://baiganio.github.io/js4b/"">
+        <img src="./images/js4b.PNG" width="100%" alt="js4b"/>
       </a>
     </td>
     <td width="33%" valign="top">
@@ -101,10 +101,6 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
 - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
-   
-- Site: <a target="_blank" href="https://baiganio.github.io/js4b">https://baiganio.github.io/js4b</a>
-   - Pure JS & Bootstrap shugar
-   - [repo files](https://github.com/BaiGanio/js4b)
 ---
 
 <!--
