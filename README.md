@@ -102,12 +102,14 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <h3>BGAPI</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a>)</p>    
-     BGAPI is core pillar in infrastructure of projects. Created & suported by enthusiasts, this .NET 5 Web API:
-     <ul>
+     .NET 5 Web API allows BaiGanio & BackOffice clients to fetch & manage data. osted and lives in Azure Cloud.
+     <!-- <ul>
       <li>allows clients to fetch & manage data </li>
       <li>is hosted and lives in Azure Cloud</li>
       <li>support BaiGanio & BackOffice web app projects</li>
-     </ul>
+     </ul> -->
+     <br/>
+     <br/>
      <a target="_blank" href="https://bgapi.azurewebsites.net/">
         <img src="./images/bgapi.PNG" width="100%" alt="bgapi" />
       </a>     
