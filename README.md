@@ -60,8 +60,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/space-university.PNG" width="100%" alt="space-university"/>
       </a>
     </td>
-  </tr>
-  
+  </tr>  
   <tr>
     <td valign="top">
       <h3>JS4B</h3>
@@ -87,16 +86,15 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
     </td>
   </tr>
-
   <tr>                                                                         
     <td valign="top">
-      <h3>Company House</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/company-house"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/company-house/"><em>Site</em></a>)</p>
-       Angular App backed with .NET Web API, SQL Server & Azure Functions
+      <h3>Free IS4</h3>
+      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site</em></a>)</p>
+       ...
       <br/>
       <br/>
-      <a target="_blank" href="https://baiganio.github.io/company-house/">
-        <img src="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif" width="100%" alt="company-house" />
+      <a target="_blank" href="https://free-is4.azurewebsites.net/">
+        <img src="./images/free-is4.PNG" width="100%" alt="company-house" />
       </a>
     </td>
     <td valign="top">
@@ -127,7 +125,10 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
  - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
    - React App backed with .NET Web API & SQL Server
    - [repo files](https://github.com/BaiGanio/backoffice) 
-
+ - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
+   - Angular App backed with .NET Web API, SQL Server & Azure Functions
+   - [repo files](https://github.com/BaiGanio/company-house) 
+  
 ---
 
 <!--
