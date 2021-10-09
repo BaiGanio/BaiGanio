@@ -46,6 +46,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
   <!-- Scrooge Rental & Space University section -->
   <tr>
     <td valign="top">
+      <hr />
       <h3>Scrooge Rental</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>Site</em></a>)</p>
         Demo example on how rent-a-car site might look like. 
@@ -56,8 +57,10 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a href="https://baiganio.github.io/Scrooge-Rental/">
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
       </a>
+      <hr />
     </td>
     <td valign="top">
+      <hr />
       <h3>Space University</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
         Workshop app with demo purposes.
@@ -68,11 +71,13 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a href="https://baiganio.github.io/space-university/">
         <img src="./images/space-university.PNG" width="100%" alt="space-university"/>
       </a>
+      <hr />
     </td>
   </tr>  
   <!-- OEG & Looney Tooney section -->    
   <tr>
     <td valign="top">
+      <hr />
       <h3>Octopus Energy Germany (OEG)</h3>
       <p>(<a target="_blank" href="https://my.octopusenergy.de/quote"><em>Site</em></a>)</p>
         Digital energy retailer I work for.
@@ -83,8 +88,10 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
         <img src="./images/oeg.gif" width="100%" alt="oeg"/>
       </a>
+      <hr />
     </td>
     <td valign="top">
+      <hr />
       <h3>Looney Tooney</h3>
       <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
         Pure JS game as a team project back in the days...
@@ -94,11 +101,13 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
         <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
       </a>
+      <hr />
     </td>
   </tr>
  <!-- Free IS4 & BGAPI section -->                                                                              
   <tr>                                                                         
     <td valign="top">
+      <hr />
       <h3>Free IS4</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site</em></a>)</p>
        Should be Blazor Web App, but don't know at what timeline should happen ;)
@@ -107,8 +116,10 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
         <img src="./images/free-is4.PNG" width="100%" alt="company-house" />
       </a>
+      <hr />
     </td>
     <td valign="top">
+      <hr />
       <h3>BGAPI</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a>)</p>    
      .NET 5 Web API allows BaiGanio & BackOffice clients to fetch & manage data. osted and lives in Azure Cloud.
@@ -121,12 +132,14 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
      <br/>
      <a target="_blank" href="https://bgapi.azurewebsites.net/">
         <img src="./images/bgapi.PNG" width="100%" alt="bgapi" />
-      </a>     
+      </a>   
+      <hr />
     </td>
   </tr>
   <!-- Weather Finder & ... section -->                                                                              
   <tr>                                                                         
     <td valign="top">
+      <hr />
       <h3>Weather Finder</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/weather-finder"><em>Repo</em></a> // <a target="_blank" href="https://weather-finder.azurewebsites.net/"><em>Site</em></a>)</p>
        .NET Web App + SQL Server for storing historically searched weather.
@@ -135,9 +148,11 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a target="_blank" href="https://weather-finder.azurewebsites.net/">
         <img src="./images/weather-finder.PNG" width="100%" alt="weather-finder" />
       </a>
+      <hr />
     </td>
-   <td valign="top">
+    <td valign="top">
       ...
+    </td>
   </tr>
 </table>
                                                               
