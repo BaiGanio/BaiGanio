@@ -72,7 +72,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         Use post code 01139
       <br/>
       <br/>
-      <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
+      <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
         <img src="./images/oeg.gif" width="100%" alt="oeg"/>
       </a>
     </td>
@@ -83,7 +83,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
        <br/>
       <br/>
       <br/>
-      <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/looney-tooney.gif">
+      <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/looney-tooney.gif">
         <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
       </a>
     </td>
@@ -96,7 +96,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
        Should be Blazor Web App, but don't know at what timeline should happen ;)
       <br/>
       <br/>
-      <a target="_blank" href="https://free-is4.azurewebsites.net/">
+      <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/free-is4.PNG">
         <img src="./images/free-is4.PNG" width="100%" alt="company-house" />
       </a>
     </td>
@@ -111,7 +111,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
      </ul> -->
      <br/>
      <br/>
-     <a target="_blank" href="https://bgapi.azurewebsites.net/">
+     <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/bgapi.PNG">
         <img src="./images/bgapi.PNG" width="100%" alt="bgapi" />
       </a>     
     </td>
