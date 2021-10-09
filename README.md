@@ -108,8 +108,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <li>is hosted and lives in Azure Cloud</li>
       <li>support BaiGanio & BackOffice web app projects</li>
      </ul>
-     <a target="_blank" href="https://baiganio.github.io/company-house/">
-        <img src="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif" width="100%" alt="company-house" />
+     <a target="_blank" href="https://bgapi.azurewebsites.net/">
+        <img src="./images/bgapi.PNG" width="100%" alt="bgapi" />
       </a>     
     </td>
   </tr>
