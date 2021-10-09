@@ -6,14 +6,14 @@
   <a href="#">
     <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
     <img src="./images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
-  <a href="#">
-    <img src="./images/branded-twitter.png" width="30px;" alt="Twitter" />
+  <a href="https://www.facebook.com/baiganio.github.io">
+    <img src="./images/facebook.jpg" width="30px;" alt="Facebook" />
   </a>
-  <a href="#">
-    <img src="./images/branded-medium.png" width="30px;" alt="Medium"/>
+  <a href="https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA">
+    <img src="./images/youtube.png" width="30px;" alt="YouTube"/>
   </a>
 </p>
 
