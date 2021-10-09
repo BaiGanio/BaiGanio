@@ -1,6 +1,19 @@
 
 ![alt](https://miro.medium.com/max/875/0*JKyzq_e9TUlb84wX) 
-
+<p align="center">
+  <a href="https://caitlinfloyd.com/">
+    <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
+  </a>
+  <a href="https://www.linkedin.com/in/caitlinfloyd/">
+    <img src="./images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/caitlinfloyd">
+    <img src="./images/branded-twitter.png" width="30px;" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@caitlinfloyd">
+    <img src="./images/branded-medium.png" width="30px;" alt="Medium"/>
+  </a>
+</p>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/BaiGanio/BaiGanio">
