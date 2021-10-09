@@ -39,13 +39,13 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
   <tr>
     <td valign="top">
       <h3>Scrooge Rental</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/scrooge-rental/"><em>Site</em></a>)</p>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>Site</em></a>)</p>
         Demo example on how rent-a-car site might look like. 
       <br/>
         Built using React.js, Firebase, Material UI, GraphQL...
       <br/>
       <br/>
-      <a href="https://baiganio.github.io/scrooge-rental/">
+      <a href="https://baiganio.github.io/Scrooge-Rental/">
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
       </a>
     </td>
