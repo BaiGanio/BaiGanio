@@ -94,7 +94,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
        Angular App backed with .NET Web API, SQL Server & Azure Functions
       <br/>
       <br/>
-      <a href="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif">
+      <a target="_blank" href="https://baiganio.github.io/company-house/">
         <img src="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif" width="100%" alt="company-house" />
       </a>
     </td>
