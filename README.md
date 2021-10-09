@@ -1,6 +1,6 @@
 
-<a href="https://baiganio.github.io/space-university/">
-  <img src="./images/lil.png" width="100%">
+<a href="https://www.bbc.com/news/in-pictures-35639575">
+  <img src="./images/lil.png" width="100%" alt="In pictures: Sony World Photography Awards shortlist">
 </a>
 <p align="center">
   <a href="#">
