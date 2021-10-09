@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## &#x1f4c8; _GitHub Stats_
+### &#x1f4c8; _Some Statistics_
 
 <a href="https://github.com/BaiGanio/BaiGanio">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
@@ -31,8 +31,8 @@
 
 ---
 
-### Working Demos
-Read the _`README.md`_ file in each repo, otherwise the working demo might turn into broken one... ;) 😄🤔
+### _Working Projects_
+Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
   <tr>
