@@ -1,6 +1,6 @@
 
-<a href="https://miro.medium.com/max/875/0*JKyzq_e9TUlb84wX">
-  <img src="https://miro.medium.com/max/875/0*JKyzq_e9TUlb84wX" width="100%">
+<a href="https://baiganio.github.io/space-university/">
+  <img src="/images/lil.jpg" width="100%">
 </a>
 <p align="center">
   <a href="#">
