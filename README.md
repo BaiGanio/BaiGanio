@@ -87,8 +87,9 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
     </td>
   </tr>
+
   <tr>                                                                         
-   <td valign="top">
+    <td valign="top">
       <h3>Company House</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/company-house"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/company-house/"><em>Site</em></a>)</p>
        Angular App backed with .NET Web API, SQL Server & Azure Functions
@@ -103,20 +104,13 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a>)</p>    
      BGAPI is core pillar in infrastructure of projects. Created & suported by enthusiasts, this .NET 5 Web API:
      <ul>
-      <li>allows public clients to fetch & manage data proteced by IS4 JWT</li>
+      <li>allows clients to fetch & manage data </li>
       <li>is hosted and lives in Azure Cloud</li>
-      <li>support BaiGanio & BackOffice web app projects with feeding them with data</li>
+      <li>support BaiGanio & BackOffice web app projects</li>
      </ul>
      <a target="_blank" href="https://baiganio.github.io/company-house/">
         <img src="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif" width="100%" alt="company-house" />
-      </a>
-        
-        
-
-      <br/>
-      <br/>
-      <br/>
-     
+      </a>     
     </td>
   </tr>
 </table>
@@ -132,9 +126,6 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
    - React App backed with .NET Web API & SQL Server
    - [repo files](https://github.com/BaiGanio/backoffice) 
 
-- Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
-   - 
-   - [repo files](https://github.com/BaiGanio/company-house) 
 ---
 
 <!--
