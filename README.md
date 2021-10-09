@@ -69,14 +69,14 @@
       <a href="https://github.com/the-collab-lab/tcl-22-smart-shopping-list" />
           <img src="./images/avoCart-logo.png" width="30%" alt="avoCart logo" align="right"/>
       </a>
-      <h3>avoCart</h3>
+      <h3>Scrooge Rental</h3>
         <br />
         <p><a href="https://github.com/the-collab-lab/tcl-22-smart-shopping-list">Repo</a> // <a href="https://tcl-22-shopping-list.web.app/">Site</a> // <a href="https://youtu.be/XJ5hsiWm7Z0?t=90">Demo</a></p>
         <br />
         <p>Smart shopping list that learns your buying habits and helps you remember what you need to buy on your next trip to the store.<br /><br />
         Built using React.js, Firebase, Material UI, and Styled Components</p>
         <a href="https://tcl-22-shopping-list.web.app/">
-            <img src="./images/demo-avoCart.gif" width="100%" alt="avoCart demo"/>
+            <img src="./images/lil.png" width="100%" alt="avoCart demo"/>
         </a>
     </td>
     <td width="33%" valign="top">
