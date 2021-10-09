@@ -123,6 +123,21 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>     
     </td>
   </tr>
+  <!-- Weather Finder & ... section -->                                                                              
+  <tr>                                                                         
+    <td valign="top">
+      <h3>Weather Finder</h3>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/weather-finder"><em>Repo</em></a> // <a target="_blank" href="https://weather-finder.azurewebsites.net/"><em>Site</em></a>)</p>
+       .NET Web App + SQL Server for storing historically searched weather.
+      <br/>
+      <br/>
+      <a target="_blank" href="https://weather-finder.azurewebsites.net/">
+        <img src="./images/weather-finder.PNG" width="100%" alt="weather-finder" />
+      </a>
+    </td>
+   <td valign="top">
+      ...
+  </tr>
 </table>
                                                               
 ---
