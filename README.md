@@ -4,10 +4,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/BaiGanio/BaiGanio">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact" />
 </a>
 <a href="https://github.com/BaiGanio/BaiGanio">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=40" alt="BaiGanio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true" alt="BaiGanio's GitHub Stats" />
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio)](https://github.com/BaiGanio/github-readme-stats)
