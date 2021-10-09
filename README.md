@@ -1,7 +1,9 @@
 
-<a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist">
+<a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
+
+<p>"I've seen people who can solve complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first... " - Unknown</p>
 <p align="center">
   <a href="#">
     <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
