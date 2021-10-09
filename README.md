@@ -1,6 +1,6 @@
 
 <a href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist">
-  <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
+  <img src="./images/lil8.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
 <p align="center">
   <a href="#">
@@ -36,7 +36,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
 
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h3>Scrooge Rental</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/scrooge-rental/"><em>Site</em></a>)</p>
         Demo example on how rent-a-car site might look like. 
@@ -48,7 +48,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h3>Space University</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
         Workshop app with demo purposes.
@@ -63,7 +63,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
   </tr>
   
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h3>JS4B</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/js4b"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/js4b/"><em>Site</em></a>)</p>
         Pure JS & Bootstrap sugar
@@ -75,7 +75,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/js4b.PNG" width="100%" alt="js4b"/>
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h3>Looney Tooney</h3>
       <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
         Pure JS game as a team project back in the days...
@@ -88,7 +88,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     </td>
   </tr>
                                                                               
-   <td width="33%" valign="top">
+   <td valign="top">
       <h3>Company House</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/company-house"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/company-house/"><em>Site</em></a>)</p>
        Angular App backed with .NET Web API, SQL Server & Azure Functions
@@ -98,7 +98,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="https://raw.githubusercontent.com/BaiGanio/company-house/matser/readme-files/serch-result-top-5.gif" width="100%" alt="company-house" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h3>Looney Tooney</h3>
       <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
       Angular App backed with .NET Web API, SQL Server & Azure Functions
