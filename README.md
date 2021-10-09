@@ -79,6 +79,7 @@ Read the _`README.md`_ file in each repo, otherwise the working demo might turn 
       <h3>Looney Tooney</h3>
       <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
         Pure JS game as a team project back in the days...
+       <br/>
       <br/>
       <br/>
       <a href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
