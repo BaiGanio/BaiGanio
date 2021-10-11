@@ -42,7 +42,10 @@ Other      2 mins          ██▓░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio)](https://github.com/BaiGanio/github-readme-stats)
+-->
+
 ---
 
 ### _Projects_
