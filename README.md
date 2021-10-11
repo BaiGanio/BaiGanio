@@ -32,7 +32,13 @@
 
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 October, 2021 - 10 October, 2021
+
+C#         10 mins         ██████████░░░░░░░░░░░░░░░   39.38 % 
+JSON       4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Markdown   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+CSHTML     3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Other      2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 <!--END_SECTION:waka-->
 
