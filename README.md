@@ -4,6 +4,7 @@
 </a>
 
 <p>"I've seen people who can solve complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first... " - Unknown</p>
+<p>"Knowledge is power. Knowledge shared is power multiplied." - Robert Noyce</p>
 <p align="center">
   <a href="#">
     <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
