@@ -33,7 +33,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
 HTML         2 hrs 48 mins   █████████████▒░░░░░░░░░░░   53.19 % 
 JavaScript   2 hrs 17 mins   ███████████░░░░░░░░░░░░░░   43.34 % 
