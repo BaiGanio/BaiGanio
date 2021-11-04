@@ -70,9 +70,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Space University</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
-        SPA workshop. Implemented with demo purposes for one university course.
-      <br/>
-        Pure JS + Bootstrap sugar. jQuery for manipulating the DOM. Google Firebase for storing data.
+      
+        SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.
       <br/>
       <br/>
       <a href="https://baiganio.github.io/space-university/">
@@ -101,7 +100,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Looney Tooney</h3>
       <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
-        Pure JS game as a team project back in the days...
+        Pure JavaScript game as a team project back in the days...
        <br/>
       <br/>
       <br/>
@@ -129,9 +128,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>BGAPI</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a>)</p>    
-     Web API as API Gateway thanks to Ocelot. Allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
-     <hr />
-     .NET 5, Identity Server 4, SQL Server, Azure Cloud, Azure Functions, Google Firebase
+     Web API designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
      <br/>
      <br/>
      <a target="_blank" href="https://bgapi.azurewebsites.net/">
