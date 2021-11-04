@@ -129,12 +129,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>BGAPI</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a>)</p>    
-     .NET 5 Web API allows BaiGanio & BackOffice clients to fetch & manage data. osted and lives in Azure Cloud.
-     <!-- <ul>
-      <li>allows clients to fetch & manage data </li>
-      <li>is hosted and lives in Azure Cloud</li>
-      <li>support BaiGanio & BackOffice web app projects</li>
-     </ul> -->
+     .NET 5 Web API as API Gateway thanks to Ocelot. Allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
+     <hr />
      <br/>
      <br/>
      <a target="_blank" href="https://bgapi.azurewebsites.net/">
