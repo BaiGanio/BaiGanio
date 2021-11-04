@@ -70,8 +70,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Space University</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
-         <br/>
-        <p>SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.</p>
+      <br/>
+      SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.
       <br/>
       <br/>
       <a href="https://baiganio.github.io/space-university/">
