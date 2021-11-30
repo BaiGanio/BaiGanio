@@ -34,7 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
 TypeScript   4 hrs 34 mins   █████████████░░░░░░░░░░░░   52.40 % 
 HTML         2 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 % 
