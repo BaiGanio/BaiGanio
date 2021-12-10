@@ -34,11 +34,13 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-TypeScript   2 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.39 % 
-HTML         2 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.11 % 
-SCSS         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+TypeScript   2 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.27 % 
+HTML         2 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.26 % 
+SCSS         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+C#           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
 
