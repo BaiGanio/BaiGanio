@@ -34,13 +34,13 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
-C#           10 hrs 16 mins  ███████████████░░░░░░░░░░   59.59 % 
-TypeScript   2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Other        2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-JSON         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-HTML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+C#           7 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.86 % 
+Other        2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
+TypeScript   2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
+HTML         1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+JSON         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 <!--END_SECTION:waka-->
 
