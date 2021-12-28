@@ -34,7 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
 C#           10 hrs 2 mins   ████████████████▓░░░░░░░░   66.14 % 
 Other        3 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
