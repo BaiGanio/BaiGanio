@@ -34,12 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
-
-Other        29 mins         ██████████████░░░░░░░░░░░   56.53 % 
-C#           14 mins         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-TypeScript   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
