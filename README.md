@@ -34,7 +34,11 @@
 
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 December, 2021 - 01 January, 2022
+
+C#           1 hr 33 mins    █████████████████▓░░░░░░░   71.20 % 
+Other        26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+JSON         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 <!--END_SECTION:waka-->
 
