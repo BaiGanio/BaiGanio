@@ -34,7 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
 C#           1 hr 33 mins    █████████████████▓░░░░░░░   71.20 % 
 Other        26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
