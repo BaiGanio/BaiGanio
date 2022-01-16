@@ -34,7 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
 C#           8 hrs 44 mins   ████████████████░░░░░░░░░   63.62 % 
 TypeScript   1 hr 54 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
