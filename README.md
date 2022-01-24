@@ -34,7 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
 C#           8 hrs 3 mins    ████████████████░░░░░░░░░   64.18 % 
 Other        3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
