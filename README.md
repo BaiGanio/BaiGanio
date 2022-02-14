@@ -34,7 +34,7 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 12 February, 2022
+Week: 07 February, 2022 - 13 February, 2022
 
 C#       4 hrs 17 mins   ███████████████░░░░░░░░░░   60.51 % 
 Other    2 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   34.46 % 
