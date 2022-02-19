@@ -34,13 +34,14 @@
 
  <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 1 hr 51 mins
+Total: 1 hr 25 mins
 
-C#      1 hr 32 mins    ████████████████░░░░░░░░░   63.65 % 
-Other   33 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.23 % 
-JSON    19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+C#           1 hr 7 mins     ████████████████▓░░░░░░░░   66.97 % 
+Other        15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+JSON         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+TypeScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 ```
 <!--END_SECTION:waka-->
 
