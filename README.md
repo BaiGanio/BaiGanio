@@ -126,7 +126,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>BGAPI</h3>
-      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a>)</p>    
+      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a> // (<a target="_blank" href="https://dev.azure.com/teamkepler/BGAPI"><em>Azure DevOps Summary</em></a>)</p>    
      Web API designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
      <br/>
      <br/>
