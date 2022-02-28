@@ -33,15 +33,14 @@
 </a>
 
  <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-C#      10 hrs 43 mins  █████████████████░░░░░░░░   68.09 % 
-Other   2 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
-JSON    55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-YAML    40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-XML     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+C#       10 hrs 43 mins  █████████████████░░░░░░░░   68.09 %
+Other    2 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
 ```
+
 <!--END_SECTION:waka-->
 
 
