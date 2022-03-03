@@ -35,10 +35,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
-
-C#      2 hrs 59 mins   ████████████████▒░░░░░░░░   65.32 %
-Other   48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
