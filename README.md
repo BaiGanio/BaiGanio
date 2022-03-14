@@ -47,7 +47,7 @@ No activity tracked
 Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
-  <!-- Scrooge Rental & Space University section -->
+  <!-- START Scrooge Rental Web, Scrooge Rental API & Space University section -->
   <tr>
     <td valign="top">
       <hr />
@@ -57,6 +57,21 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <br/>
         Built using React.js, Firebase, Material UI, GraphQL...
       <br/>
+      <br/>
+      <a href="https://baiganio.github.io/Scrooge-Rental/">
+        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+      </a>
+      <hr />
+    </td>
+     <td valign="top">
+      <hr />
+      <h3>Scrooge Rental API</h3>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Site</em></a>)</p>
+        .NET 6 GraphQL basic example supporting the web project. 
+      <br/>
+        Built using React.js, Firebase, Material UI, GraphQL...
+      <br/>
+      Banana Cake Pop: https://scrooge-rental-api.azurewebsites.net/graphql/
       <br/>
       <a href="https://baiganio.github.io/Scrooge-Rental/">
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
@@ -106,7 +121,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
     </td>
   </tr>
- <!-- Free IS4 & BGAPI section -->                                                                              
+  <!-- END OEG & Looney Tooney section -->    
+  <!-- START Free IS4 & BGAPI section -->                                                                              
   <tr>                                                                         
     <td valign="top">
       <hr />
