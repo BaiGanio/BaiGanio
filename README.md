@@ -47,7 +47,7 @@ No activity tracked
 Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
-  <!-- START Scrooge Rental Web, Scrooge Rental API & Space University section -->
+  <!-- START Scrooge Rental web and API project secrtion -->
   <tr>
     <td valign="top">
       <hr />
@@ -69,29 +69,16 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Site</em></a>)</p>
         .NET 6 GraphQL basic example supporting the web project. 
       <br/>
-        Built using React.js, Firebase, Material UI, GraphQL...
-      <br/>
       Banana Cake Pop: https://scrooge-rental-api.azurewebsites.net/graphql/
       <br/>
       <a href="https://baiganio.github.io/Scrooge-Rental/">
-        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.yiQvANuH3dmM_8F1HM0GKAHaJs%26pid%3DApi&f=1" width="36%" alt="scrooge-rental"/>
       </a>
       <hr />
-    </td>
-    <td valign="top">
-      <hr />
-      <h3>Space University</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
-      SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.
-      <br/>
-      <br/>
-      <a href="https://baiganio.github.io/space-university/">
-        <img src="./images/space-university.PNG" width="100%" alt="space-university"/>
-      </a>
-      <hr />
-    </td>
+    </td>   
   </tr>  
-  <!-- OEG & Looney Tooney section -->    
+  <!-- END Scrooge Rental web and API project secrtion -->
+  <!-- START OEG & Looney Tooney section -->    
   <tr>
     <td valign="top">
       <hr />
@@ -149,7 +136,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
     </td>
   </tr>
-  <!-- Weather Finder & ... section -->                                                                              
+  <!-- START Free IS4 & BGAPI section -->  
+  <!-- START Weather Finder & Space University -->                                                                              
   <tr>                                                                         
     <td valign="top">
       <hr />
@@ -163,10 +151,20 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       </a>
       <hr />
     </td>
-    <td valign="top">
-      ...
+     <td valign="top">
+      <hr />
+      <h3>Space University</h3>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
+      SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.
+      <br/>
+      <br/>
+      <a href="https://baiganio.github.io/space-university/">
+        <img src="./images/space-university.PNG" width="100%" alt="space-university"/>
+      </a>
+      <hr />
     </td>
   </tr>
+  <!-- START Weather Finder & Space University -->   
 </table>
                                                               
 ---
