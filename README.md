@@ -72,7 +72,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         Built using Azure Service Bus & Azure Functions, as well as free SQL Server from AppHarbor.
       <br/>
       <a href="https://scrooge-rental-api.azurewebsites.net/graphql/">
-        <img src="./images/scrooge_rental_microservicesl.png" width="100%" alt="scrooge-rental"/>
+        <img src="./images/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
       </a>
       <hr />
     </td>   
