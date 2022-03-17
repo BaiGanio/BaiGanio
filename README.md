@@ -70,7 +70,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Scrooge Rental API</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>Site</em></a>)</p>
-        Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Functions to support  the web project.
+        Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.
       <br/>
        <br/>
       <a href="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png">
