@@ -55,7 +55,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>Site</em></a>)</p>
         Demo example on how rent-a-car site might look like. 
       <br/>
-        Built using React.js, Firebase, Material UI, GraphQL...
+        Built using React.js, GitHub pages, Material UI, GraphQL...
       <br/>
       <br/>
       <a href="https://baiganio.github.io/Scrooge-Rental/">
@@ -67,9 +67,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Scrooge Rental API</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>Site</em></a>)</p>
-        Azure Cloud hosted, .NET 6 GraphQL basic example. 
-      <br/>
-        Built using Azure Service Bus & Azure Functions, as well as free SQL Server from AppHarbor.
+        Azure Cloud hosted, .NET 6 API using free SQL Server from AppHarbor. Built using Azure Service Bus & Azure Functions, as well as supporting GraphQL.
       <br/>
       <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/scrooge_rental_microservices.png">
         <img src="./images/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
@@ -126,7 +124,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>BGAPI</h3>
-      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a> // (<a target="_blank" href="https://dev.azure.com/teamkepler/BGAPI"><em>Azure DevOps Summary</em></a>)</p>    
+      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a></p>    
      Web API designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
      <br/>
      <br/>
