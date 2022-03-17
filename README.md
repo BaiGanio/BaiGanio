@@ -66,13 +66,13 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
      <td valign="top">
       <hr />
       <h3>Scrooge Rental API</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Site</em></a>)</p>
-        .NET 6 GraphQL basic example supporting the web project. 
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>Site</em></a>)</p>
+        Azure Cloud hosted, .NET 6 GraphQL basic example. 
       <br/>
-      Banana Cake Pop: https://scrooge-rental-api.azurewebsites.net/graphql/
+        Built using Azure Service Bus & Azure Functions, as well as free SQL Server from AppHarbor.
       <br/>
-      <a href="https://baiganio.github.io/Scrooge-Rental/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.yiQvANuH3dmM_8F1HM0GKAHaJs%26pid%3DApi&f=1" width="36%" alt="scrooge-rental"/>
+      <a href="https://scrooge-rental-api.azurewebsites.net/graphql/">
+        <img src="./images/scrooge_rental_microservicesl.png" width="100%" alt="scrooge-rental"/>
       </a>
       <hr />
     </td>   
