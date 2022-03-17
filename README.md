@@ -117,7 +117,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Free IS4</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site</em></a>)</p>
-       Should be Blazor Web App, but don't know at what timeline should happen ;)
+       Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients 7 APIs. Should be Blazor Web App, but don't know at what timeline it should happen ;)
       <br/>
       <br/>
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
