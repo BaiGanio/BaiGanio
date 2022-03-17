@@ -117,7 +117,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Free IS4</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site</em></a>)</p>
-       Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients 7 APIs. Should be Blazor Web App, but don't know at what timeline it should happen ;)
+       Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients & APIs. Should be Blazor Web App, but don't know at what timeline it should happen ;)
       <br/>
       <br/>
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
@@ -129,7 +129,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>BGAPI</h3>
       <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a></p>    
-     Web API designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
+     .NET 6 Web API designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
      <br/>
      <br/>
      <a target="_blank" href="https://bgapi.azurewebsites.net/">
