@@ -38,11 +38,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2022 - To: 10 April 2022
+From: 04 April 2022 - To: 11 April 2022
 
-C#             3 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.57 %
-CSHTML         3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.41 %
-Other          1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+C#       2 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.14 %
+CSHTML   1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
+Other    39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
 ```
 
 <!--END_SECTION:waka-->
