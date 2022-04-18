@@ -38,11 +38,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
-
-C#       2 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.14 %
-CSHTML   1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
-Other    39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
