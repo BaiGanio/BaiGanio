@@ -38,7 +38,14 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 April 2022 - To: 18 April 2022
+
+C#       2 hrs 48 mins   ███████████████▒░░░░░░░░░   61.11 %
+XML      35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+YAML     30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+CSHTML   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+JSON     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
