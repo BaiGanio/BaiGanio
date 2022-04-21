@@ -38,10 +38,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2022 - To: 19 April 2022
+From: 13 April 2022 - To: 20 April 2022
 
-C#       9 hrs 10 mins   ████████████████▓░░░░░░░░   67.15 %
-Other    1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+C#       13 hrs 47 mins  ████████████████▓░░░░░░░░   66.94 %
+Other    3 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
 ```
 
 <!--END_SECTION:waka-->
