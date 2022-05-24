@@ -38,7 +38,12 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 May 2022 - To: 23 May 2022
+
+TypeScript   48 mins         █████████████▓░░░░░░░░░░░   54.53 %
+JSON         37 mins         ██████████▓░░░░░░░░░░░░░░   42.41 %
+C#           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
