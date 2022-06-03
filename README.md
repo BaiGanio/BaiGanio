@@ -178,7 +178,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>baiganio.github.io</h3>
       <p>(<a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>Repo</em></a> // <a target="_blank" href="https:/baiganio.github.io/"><em>Site</em></a>)</p>
-       .NET Web App + SQL Server for storing historically searched weather.
+       Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more.
       <br/>
       <br/>
       <a target="_blank" href="https://baiganio.github.io/">
