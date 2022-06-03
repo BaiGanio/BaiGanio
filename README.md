@@ -60,9 +60,9 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>Scrooge Rental</h3>
-        <span>Demo example on how rent-a-car site might look like. </span>
-      <br/>
-        Built using React.js, GitHub pages, Material UI, GraphQL...
+        <span>Demo example on how rent-a-car site might look like.
+        Built using React.js, GitHub pages, Material UI, GraphQL... & some other data for aligment
+        </span>
       <br/>
       <br/>
       <a href="https://baiganio.github.io/Scrooge-Rental/">
@@ -75,7 +75,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
      <td valign="top">
       <hr />
       <h3>Scrooge Rental API</h3>
-    <span>    Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.</span>
+    <span>Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.</span>
       <br/>
        <br/>
       <a href="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png">
