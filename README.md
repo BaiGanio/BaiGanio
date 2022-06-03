@@ -60,9 +60,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>Scrooge Rental</h3>
-      <p>Repo: <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
-      <p>Site: <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
-        Demo example on how rent-a-car site might look like. 
+        <span>Demo example on how rent-a-car site might look like. </span>
       <br/>
         Built using React.js, GitHub pages, Material UI, GraphQL...
       <br/>
@@ -70,6 +68,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a href="https://baiganio.github.io/Scrooge-Rental/">
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
       </a>
+      <p>Repo: <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
+      <p>Site: <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
       <hr />
     </td>
      <td valign="top">
