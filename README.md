@@ -181,7 +181,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
        .NET Web App + SQL Server for storing historically searched weather.
       <br/>
       <br/>
-      <a target="_blank" href="https://baiganio.github.io/>
+      <a target="_blank" href="https://baiganio.github.io/">
         <img src="./images/baiganio-landing-page.png" width="100%" alt="BaiGanio" />
       </a>
       <hr />
