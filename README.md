@@ -51,7 +51,7 @@ Text         8 mins          █▓░░░░░░░░░░░░░░░
 
 ---
 
-### _Projects_
+### _Projects available so far?!?!_
 Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
@@ -60,7 +60,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>Scrooge Rental</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>Site</em></a>)</p>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>Site: https://baiganio.github.io/Scrooge-Rental</em></a>)</p>
         Demo example on how rent-a-car site might look like. 
       <br/>
         Built using React.js, GitHub pages, Material UI, GraphQL...
@@ -74,7 +74,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
      <td valign="top">
       <hr />
       <h3>Scrooge Rental API</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>Site</em></a>)</p>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>Repo</em></a> // <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>Site: https://scrooge-rental-api.azurewebsites.net/graphql</em></a>)</p>
         Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.
       <br/>
        <br/>
@@ -93,7 +93,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <p>(<a target="_blank" href="https://my.octopusenergy.de/quote"><em>Site</em></a>)</p>
         Digital energy retailer I work for.
       <br/>
-        React, Angular & Azure Service Fabric.
+        React, Angular, Azure Service Fabric (multiple .NET APIs configured), Azure Cloud, Azure SQL Server, Azure Storage, Azure Functions, Azure Service Bus & much more....
       <br/>
       <br/>
       <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
@@ -104,8 +104,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>Looney Tooney</h3>
-      <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site</em></a>)</p>    
-        Pure JavaScript game as a team project back in the days...
+      <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site: https://team-kepler.github.io/looney-tooney/CanvasGame.html</em></a>)</p>    
+        GitHub Pages hosted, pure JavaScript game as a team project back in the days...
        <br/>
       <br/>
       <br/>
@@ -121,8 +121,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>Free IS4</h3>
-      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site</em></a>)</p>
-       Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients & APIs. Should be Blazor Web App, but don't know at what timeline it should happen ;)
+      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site: https://free-is4.azurewebsites.net</em></a>)</p>
+       Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients & APIs. Azure SQL Server for storing data. Should be Blazor Web app, but don't know at what timeline it should happen ;)
       <br/>
       <br/>
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
@@ -133,8 +133,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>BGAPI</h3>
-      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site</em></a></p>    
-     .NET 6 Web API designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud. 
+      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site: https://bgapi.azurewebsites.net</em></a>)</p>    
+     .NET 6 Web API supporting GraphQL designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud, manages data via Azure SQL Server, Firebase NoSQL datbase as well as Cosmos DB.
      <br/>
      <br/>
      <a target="_blank" href="https://bgapi.azurewebsites.net/">
@@ -177,7 +177,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>baiganio.github.io</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>Repo</em></a> // <a target="_blank" href="https:/baiganio.github.io/"><em>Site</em></a>)</p>
+      <p>(<a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>Repo</em></a> // <a target="_blank" href="https:/baiganio.github.io/"><em>Site: https:/baiganio.github.io</em></a>)</p>
        Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more.
       <br/>
       <br/>
