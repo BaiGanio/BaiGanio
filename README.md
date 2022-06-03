@@ -68,9 +68,9 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <a href="https://baiganio.github.io/Scrooge-Rental/">
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
       </a>
+      <hr />
       <p>Repo: <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
       <p>Site: <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
-      <hr />
     </td>
      <td valign="top">
       <hr />
