@@ -63,7 +63,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <hr />
       <h3>Scrooge Rental</h3>
         <span>Demo example on how rent-a-car site might look like.
-        Built using React.js, GitHub pages, Material UI, GraphQL... & some other data for aligment
+        Built using React.js, GitHub pages, Material UI, GraphQL... & some other data for alignment
         </span>
       <br/>
       <br/>
@@ -71,8 +71,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
       </a>
       <hr />
-      <p>Repo: <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
-      <p>Site: <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
+      <p>(Site): <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
     </td>
      <td valign="top">
       <hr />
@@ -84,8 +84,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
       </a>
       <hr />
-      <p>Repo: <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>https://github.com/BaiGanio/scrooge-rental-api</em></a></p>
-      <p>Site:  <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>https://scrooge-rental-api.azurewebsites.net/graphql</em></a></p>
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>https://github.com/BaiGanio/scrooge-rental-api</em></a></p>
+      <p>(Site):  <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>https://scrooge-rental-api.azurewebsites.net/graphql</em></a></p>
     </td>   
   </tr>  
   <!-- END Scrooge Rental web and API project secrtion -->
@@ -94,21 +94,21 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     <td valign="top">
       <hr />
       <h3>Octopus Energy Germany (OEG)</h3>
-      <p>(<a target="_blank" href="https://my.octopusenergy.de/quote"><em>Site</em></a>)</p>
-        Digital energy retailer I work for.
+        Digital energy retailer I worked for.
       <br/>
         React, Angular, Azure Service Fabric (multiple .NET APIs configured), Azure Cloud, Azure SQL Server, Azure Storage, Azure Functions, Azure Service Bus & much more....
       <br/>
       <br/>
       <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
-        <img src="./images/oeg.gif" width="100%" alt="oeg"/>
+        <img src="./images/oeg.gif" width="91%" alt="oeg"/>
       </a>
       <hr />
+      <p>(Site): <a target="_blank" href="https://my.octopusenergy.de/quote"><em>https://my.octopusenergy.de/quote</em></a></p>
     </td>
     <td valign="top">
       <hr />
-      <h3>Looney Tooney</h3>
-      <p>(<a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>Repo</em></a> // <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>Site: https://team-kepler.github.io/looney-tooney/CanvasGame.html</em></a>)</p>    
+      <h3>Looney Tooney</h3>  
+      <br/>        
         GitHub Pages hosted, pure JavaScript game as a team project back in the days...
        <br/>
       <br/>
@@ -117,6 +117,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
       </a>
       <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>https://github.com/Team-Kepler/looney-tooney</em></a></p>
+      <p>(Site): <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>https://team-kepler.github.io/looney-tooney/CanvasGame.html</em></a></p>
     </td>
   </tr>
   <!-- END OEG & Looney Tooney section -->    
@@ -124,27 +126,27 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
   <tr>                                                                         
     <td valign="top">
       <hr />
-      <h3>Free IS4</h3>
-      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>Repo</em></a> // <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>Site: https://free-is4.azurewebsites.net</em></a>)</p>
+      <h2><em>Free IS4</em></h2>     
        Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients & APIs. Azure SQL Server for storing data. Should be Blazor Web app, but don't know at what timeline it should happen ;)
       <br/>
       <br/>
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
-        <img src="./images/free-is4.PNG" width="100%" alt="company-house" />
+        <img src="./images/free-is4.PNG" width="80%" alt="free-is4" />
       </a>
       <hr />
+      <p>(Repo): <a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>https://dev.azure.com/teamkepler/_git/Free-IS4</em></a></p>
+      <p>(Site): <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>https://free-is4.azurewebsites.net</em></a></p>
     </td>
     <td valign="top">
       <hr />
-      <h3>BGAPI</h3>
-      <p>(<a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>Azure DevOps Repo</em></a> // <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>Site: https://bgapi.azurewebsites.net</em></a>)</p>    
-     .NET 6 Web API supporting GraphQL designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud, manages data via Azure SQL Server, Firebase NoSQL datbase as well as Cosmos DB.
-     <br/>
-     <br/>
-     <a target="_blank" href="https://bgapi.azurewebsites.net/">
-        <img src="./images/bgapi.PNG" width="100%" alt="bgapi" />
-      </a>   
-      <hr />
+      <h2><em>BGAPI</em></h2>     
+     .NET 6 Web API supporting GraphQL designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud, manages data via Azure SQL Server, Firebase NoSQL database as well as Cosmos DB.
+      <br/>
+      <br/>
+      <a target="_blank" href="https://bgapi.azurewebsites.net/"><img src="./images/bgapi.PNG" width="100%" alt="bgapi" /></a>   
+    <hr />
+    <p>(Repo): <a target="_blank" href="https://dev.azure.com/teamkepler/_git/BGAPI"><em>https://dev.azure.com/teamkepler/_git/BGAPI</em></a></p> 
+    <p>(Site): <a target="_blank" href="https://bgapi.azurewebsites.net/"><em>https://bgapi.azurewebsites.net</em></a></p>   
     </td>
   </tr>
   <!-- END Free IS4 & BGAPI section -->  
@@ -152,8 +154,7 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
   <tr>                                                                         
     <td valign="top">
       <hr />
-      <h3>Weather Finder</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/weather-finder"><em>Repo</em></a> // <a target="_blank" href="https://weather-finder.azurewebsites.net/"><em>Site</em></a>)</p>
+      <h2><em>Weather Finder</em></h2>
        .NET Web App + SQL Server for storing historically searched weather.
       <br/>
       <br/>
@@ -161,27 +162,29 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/weather-finder.PNG" width="100%" alt="weather-finder" />
       </a>
       <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/weather-finder"><em>https://github.com/BaiGanio/weather-finder</em></a></p>
+      <p>(Site): <a target="_blank" href="https://weather-finder.azurewebsites.net/"><em>https://weather-finder.azurewebsites.net</em></a></p>
     </td>
      <td valign="top">
       <hr />
-      <h3>Space University</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/space-university"><em>Repo</em></a> // <a target="_blank" href="https://baiganio.github.io/space-university/"><em>Site</em></a>)</p>    
+      <h2><em>Space University</em></h2>
       SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.
       <br/>
       <br/>
       <a href="https://baiganio.github.io/space-university/">
-        <img src="./images/space-university.PNG" width="100%" alt="space-university"/>
+        <img src="./images/space-university.PNG" width="800%" alt="space-university"/>
       </a>
       <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/space-university"><em>https://github.com/BaiGanio/space-university</em></a></p>   
+      <p>(Site): <a target="_blank" href="https://baiganio.github.io/space-university/"><em>https://baiganio.github.io/space-university</em></a></p> 
     </td>
   </tr>
   <!-- END Weather Finder & Space University -->  
-  <!-- START BaiGanio --> 
+  <!-- START BaiGanio & js4b --> 
    <tr>                                                                         
     <td valign="top">
       <hr />
-      <h3>baiganio.github.io</h3>
-      <p>(<a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>Repo</em></a> // <a target="_blank" href="https:/baiganio.github.io/"><em>Site: https:/baiganio.github.io</em></a>)</p>
+      <h2><em>baiganio.github.io</em></h2>
        Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more.
       <br/>
       <br/>
@@ -189,26 +192,34 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
         <img src="./images/baiganio-landing-page.png" width="100%" alt="BaiGanio" />
       </a>
       <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>https://github.com/BaiGanio/baiganio.github.io</em></a></p>
+      <p>(Site): <a target="_blank" href="https:/baiganio.github.io/"><em>https:/baiganio.github.io</em></a></p>
+    </td>
+    <td valign="top">
+      <hr />
+      <h2><em>js4b - JavaScript for beginners</em></h2>
+       Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
+      <br/>
+      <br/>
+      <!-- <a target="_blank" href="https://baiganio.github.io/">
+        <img src="./images/baiganio-landing-page.png" width="100%" alt="BaiGanio" />
+      </a> -->
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/js4b"><em>https://github.com/BaiGanio/js4b</em></a></p>
+      <p>(Site): <a target="_blank" href="https://baiganio.github.io/js4b/"><em>https://baiganio.github.io/js4b/</em></a></p>
     </td>
   </tr>
-  <!-- END BaiGanio --> 
+  <!-- END BaiGanio & js4b--> 
 </table>
                                                               
 ---
-
- - Site: <a target="_blank" href="https://baiganio.github.io/">https://baiganio.github.io/</a>
-   - Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more...
-   - [repo files](https://github.com/BaiGanio/baiganio.github.io)
+ 
  - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
    - React App backed with .NET Web API & SQL Server
    - [repo files](https://github.com/BaiGanio/backoffice) 
  - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
- - Site: <a target="_blank" href="https://baiganio.github.io/js4b/">https://baiganio.github.io/js4b/</a>
-   - Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
-   - [repo files](https://github.com/BaiGanio/js4b) 
-  
 ---
 
 <!--
