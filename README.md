@@ -198,9 +198,9 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
        Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
       <br/>
       <br/>
-      <!-- <a target="_blank" href="https://baiganio.github.io/">
-        <img src="./images/baiganio-landing-page.png" width="100%" alt="BaiGanio" />
-      </a> -->
+      <a target="_blank" href="https://baiganio.github.io/">
+        <img src="./images/js4b.gif" width="100%" alt="js4b" />
+      </a>
       <hr />
       <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/js4b"><em>https://github.com/BaiGanio/js4b</em></a></p>
       <p>(Site): <a target="_blank" href="https://baiganio.github.io/js4b/"><em>https://baiganio.github.io/js4b/</em></a></p>
