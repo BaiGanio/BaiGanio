@@ -38,11 +38,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 18 June 2022 - To: 25 June 2022
+From: 19 June 2022 - To: 26 June 2022
 
-Markdown   1 hr 17 mins    █████████████████████░░░░   83.67 %
-JSON       15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-C#         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON       15 mins         ██████████████░░░░░░░░░░░   55.45 %
+Markdown   12 mins         ███████████░░░░░░░░░░░░░░   44.55 %
 ```
 
 <!--END_SECTION:waka-->
