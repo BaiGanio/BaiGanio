@@ -38,7 +38,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 21 June 2022 - To: 28 June 2022
+From: 22 June 2022 - To: 29 June 2022
 
 Markdown   1 hr 42 mins    ████████████████████░░░░░   80.32 %
 JSON       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
