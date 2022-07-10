@@ -38,7 +38,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 YAML         1 hr 58 mins    ██████████████▓░░░░░░░░░░   59.10 %
 JavaScript   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
