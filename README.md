@@ -35,15 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=28" alt="BaiGanio's GitHub Stats" />
 </a>
 
- <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 ---
 
 <h1><em>Projects available so far?!?!</em></h1>
