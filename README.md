@@ -37,8 +37,8 @@
 
 ---
 
-<h1><em>Projects available so far?!?!</em></h1>
-<h4><em>Read the README.md file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔!</em></h4>
+<h1><em>Projects available so far?!?!</em> 🤔 😵</h1>
+<h4><em>Read the README.md file in each repo, otherwise the working project might turn into broken one...</em></h4>
 
 
 <table bordercolor="#66b2b2">
