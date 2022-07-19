@@ -25,7 +25,7 @@
 </p>
 
 ---
-### &#x1f4c8; _Statistics_
+<h1>&#x1f4c8; <em>Statistics</em></h1>
 
 <a href="https://github.com/BaiGanio/BaiGanio">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
@@ -46,8 +46,9 @@ No activity tracked
 
 ---
 
-### _Projects available so far?!?!_
-Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
+<h1><em>Projects available so far?!?!</em></h1>
+<h4><em>Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔!</em></h4>
+
 
 <table bordercolor="#66b2b2">
  <!-- START Free IS4 & BGAPI section -->                                                                              
