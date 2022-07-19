@@ -50,79 +50,13 @@ No activity tracked
 Read the _`README.md`_ file in each repo, otherwise the working project might turn into broken one... ;) 😄🤔
 
 <table bordercolor="#66b2b2">
-  <!-- START Scrooge Rental web and API project secrtion -->
-  <tr>
-    <td valign="top">
-      <hr />
-      <h3>Scrooge Rental</h3>
-        <span>Demo example on how rent-a-car site might look like.
-        Built using React.js, GitHub pages, Material UI, GraphQL... & some other data for alignment
-        </span>
-      <br/>
-      <br/>
-      <a href="https://baiganio.github.io/Scrooge-Rental/">
-        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
-      </a>
-      <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
-      <p>(Site): <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
-    </td>
-     <td valign="top">
-      <hr />
-      <h3>Scrooge Rental API</h3>
-    <span>Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.</span>
-      <br/>
-       <br/>
-      <a href="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png">
-        <img src="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
-      </a>
-      <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>https://github.com/BaiGanio/scrooge-rental-api</em></a></p>
-      <p>(Site):  <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>https://scrooge-rental-api.azurewebsites.net/graphql</em></a></p>
-    </td>   
-  </tr>  
-  <!-- END Scrooge Rental web and API project secrtion -->
-  <!-- START OEG & Looney Tooney section -->    
-  <tr>
-    <td valign="top">
-      <hr />
-      <h3>Octopus Energy Germany (OEG)</h3>
-        Digital energy retailer I worked for.
-      <br/>
-        React, Angular, Azure Service Fabric (multiple .NET APIs configured), Azure Cloud, Azure SQL Server, Azure Storage, Azure Functions, Azure Service Bus & much more....
-      <br/>
-      <br/>
-      <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
-        <img src="./images/oeg.gif" width="91%" alt="oeg"/>
-      </a>
-      <hr />
-      <p>(Site): <a target="_blank" href="https://my.octopusenergy.de/quote"><em>https://my.octopusenergy.de/quote</em></a></p>
-    </td>
-    <td valign="top">
-      <hr />
-      <h3>Looney Tooney</h3>  
-      <br/>        
-        GitHub Pages hosted, pure JavaScript game as a team project back in the days...
-       <br/>
-      <br/>
-      <br/>
-      <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
-        <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
-      </a>
-      <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>https://github.com/Team-Kepler/looney-tooney</em></a></p>
-      <p>(Site): <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>https://team-kepler.github.io/looney-tooney/CanvasGame.html</em></a></p>
-    </td>
-  </tr>
-  <!-- END OEG & Looney Tooney section -->    
-  <!-- START Free IS4 & BGAPI section -->                                                                              
+ <!-- START Free IS4 & BGAPI section -->                                                                              
   <tr>                                                                         
     <td valign="top">
       <hr />
-      <h2><em>Free IS4</em></h2>     
-       Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients & APIs. Azure SQL Server for storing data. Should be Blazor Web app, but don't know at what timeline it should happen ;)
-      <br/>
-      <br/>
+      <h2><em>Free IS4</em></h2>   
+   <a href="https://www.codacy.com/gh/BaiGanio/Free-IS4/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/Free-IS4&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/6e3be1117d8e49a0a555790b78cf64af"/></a>  
+     <p> Self hosted Identity Server 4 middleware implementation supporting BaiGanio ecosystem of web clients & APIs. Azure SQL Server for storing data. Should be Blazor Web app, but don't know at what timeline it should happen ;)</p>
       <a target="_blank" href="https://free-is4.azurewebsites.net/">
         <img src="./images/free-is4.PNG" width="80%" alt="free-is4" />
       </a>
@@ -143,14 +77,79 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     </td>
   </tr>
   <!-- END Free IS4 & BGAPI section -->  
+    <!-- START BaiGanio & Looney Tooney --> 
+   <tr>                                                                         
+    <td valign="top">
+      <hr />
+      <h2><em>baiganio.github.io</em></h2>
+         <a href="https://www.codacy.com/gh/BaiGanio/baiganio.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/baiganio.github.io&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43992e753d15400c98b7dd86327d9ecb"/></a>
+     <a href="https://www.codacy.com/gh/BaiGanio/baiganio.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/baiganio.github.io&amp;utm_campaign=Badge_Coverage"><img src="https://app.codacy.com/project/badge/Coverage/43992e753d15400c98b7dd86327d9ecb"/></a>
+       <p>Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more.</p>   
+      <a target="_blank" href="https://baiganio.github.io/">
+        <img src="./images/baiganio-landing-page.png" width="100%" alt="BaiGanio" />
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>https://github.com/BaiGanio/baiganio.github.io</em></a></p>
+      <p>(Site): <a target="_blank" href="https:/baiganio.github.io/"><em>https:/baiganio.github.io</em></a></p>
+    </td>
+    <td valign="top">
+      <hr />
+      <h3>Looney Tooney</h3>  
+      <br/>        
+        GitHub Pages hosted, pure JavaScript game as a team project back in the days...
+       <br/>
+      <br/>
+      <br/>
+      <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
+        <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/Team-Kepler/looney-tooney"><em>https://github.com/Team-Kepler/looney-tooney</em></a></p>
+      <p>(Site): <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html"><em>https://team-kepler.github.io/looney-tooney/CanvasGame.html</em></a></p>
+    </td>
+  </tr>
+  <!-- END BaiGanio & Looney Tooney--> 
+  <!-- START Scrooge Rental web and API project secrtion -->
+  <tr>
+    <td valign="top">
+      <hr />
+      <h3>Scrooge Rental</h3>
+      <a href="https://www.codacy.com/gh/BaiGanio/Scrooge-Rental/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/Scrooge-Rental&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/18935d55f1764bf595a96ccaadb93aeb"/></a>
+        <p>Demo example on how rent-a-car site might look like.
+        Built using React.js, GitHub pages, Material UI, GraphQL... & some other data for alignment
+        </p>
+      <br/>
+      <br/>
+      <a href="https://baiganio.github.io/Scrooge-Rental/">
+        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/Scrooge-Rental"><em>https://github.com/BaiGanio/Scrooge-Rental</em></a> </p>
+      <p>(Site): <a target="_blank" href="https://baiganio.github.io/Scrooge-Rental/"><em>https://baiganio.github.io/Scrooge-Rental</em></a></p>
+    </td>
+     <td valign="top">
+      <hr />
+      <h3>Scrooge Rental API</h3>
+      <a href="https://www.codacy.com/gh/BaiGanio/scrooge-rental-api/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/scrooge-rental-api&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/aa24e0312b994735a5335f96c2a461e9"/></a>
+    <p>Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.</p>
+      <br/>
+       <br/>
+      <a href="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png">
+        <img src="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>https://github.com/BaiGanio/scrooge-rental-api</em></a></p>
+      <p>(Site):  <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>https://scrooge-rental-api.azurewebsites.net/graphql</em></a></p>
+    </td>   
+  </tr>  
+  <!-- END Scrooge Rental web and API project secrtion -->
   <!-- START Weather Finder & Space University -->                                                                              
-  <tr>                                                                         
+  <tr>      
     <td valign="top">
       <hr />
       <h2><em>Weather Finder</em></h2>
-       .NET Web App + SQL Server for storing historically searched weather.
-      <br/>
-      <br/>
+      <a href="https://www.codacy.com/gh/BaiGanio/weather-finder/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/weather-finder&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/1ab03ea63f574dce99a8fde86ada70c7"/></a>
+      <p> .NET Web App + SQL Server for storing historically searched weather.</p>
       <a target="_blank" href="https://weather-finder.azurewebsites.net/">
         <img src="./images/weather-finder.PNG" width="100%" alt="weather-finder" />
       </a>
@@ -161,9 +160,8 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
      <td valign="top">
       <hr />
       <h2><em>Space University</em></h2>
-      SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.
-      <br/>
-      <br/>
+      <a href="https://www.codacy.com/gh/BaiGanio/space-university/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/space-university&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/1fd97ddd455a4283a935e79f726cc215"/></a>
+      <p> SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.</p>
       <a href="https://baiganio.github.io/space-university/">
         <img src="./images/space-university.PNG" width="800%" alt="space-university"/>
       </a>
@@ -173,27 +171,27 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     </td>
   </tr>
   <!-- END Weather Finder & Space University -->  
-  <!-- START BaiGanio & js4b --> 
-   <tr>                                                                         
+  <!-- START OEG & js4b-->    
+  <tr>
     <td valign="top">
       <hr />
-      <h2><em>baiganio.github.io</em></h2>
-       Angular App backed with Identity Server 4, .NET Web API, SQL Server, Google Firebase & much more.
+      <h3>Octopus Energy Germany (OEG)</h3>
+        Digital energy retailer I worked for.
+      <br/>
+        React, Angular, Azure Service Fabric (multiple .NET APIs configured), Azure Cloud, Azure SQL Server, Azure Storage, Azure Functions, Azure Service Bus & much more....
       <br/>
       <br/>
-      <a target="_blank" href="https://baiganio.github.io/">
-        <img src="./images/baiganio-landing-page.png" width="100%" alt="BaiGanio" />
+      <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
+        <img src="./images/oeg.gif" width="91%" alt="oeg"/>
       </a>
       <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>https://github.com/BaiGanio/baiganio.github.io</em></a></p>
-      <p>(Site): <a target="_blank" href="https:/baiganio.github.io/"><em>https:/baiganio.github.io</em></a></p>
+      <p>(Site): <a target="_blank" href="https://my.octopusenergy.de/quote"><em>https://my.octopusenergy.de/quote</em></a></p>
     </td>
     <td valign="top">
       <hr />
       <h2><em>js4b - JavaScript for beginners</em></h2>
-       Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
-      <br/>
-      <br/>
+      <a href="https://www.codacy.com/gh/BaiGanio/js4b/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/js4b&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/7a7493b6185f4610abdb7192e65cd344"/></a>
+      <p>     Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API</p>
       <a target="_blank" href="https://baiganio.github.io/">
         <img src="./images/js4b.gif" width="100%" alt="js4b" />
       </a>
@@ -202,15 +200,17 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
       <p>(Site): <a target="_blank" href="https://baiganio.github.io/js4b/"><em>https://baiganio.github.io/js4b/</em></a></p>
     </td>
   </tr>
-  <!-- END BaiGanio & js4b--> 
+  <!-- END OEG & js4b section -->   
 </table>
                                                               
 ---
  
  - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
+ <a href="https://www.codacy.com/gh/BaiGanio/backoffice/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/backoffice&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/d9f10a47836341c39c30232c6541c571"/></a>
    - React App backed with .NET Web API & SQL Server
    - [repo files](https://github.com/BaiGanio/backoffice) 
  - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
+ <a href="https://www.codacy.com/gh/BaiGanio/company-house/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/company-house&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/ed1fe0695529455ab353abf2921543af"/></a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
 ---
