@@ -94,12 +94,9 @@ Read the _`README.md`_ file in each repo, otherwise the working project might tu
     </td>
     <td valign="top">
       <hr />
-      <h3>Looney Tooney</h3>  
-      <br/>        
-        GitHub Pages hosted, pure JavaScript game as a team project back in the days...
-       <br/>
-      <br/>
-      <br/>
+         <h2><em>Looney Tooney</em></h2>  
+      <a href="https://www.codacy.com/gh/Team-Kepler/looney-tooney/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Team-Kepler/looney-tooney&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/9ad3b883ce9f469e9513879d79795662"/></a>   
+        <p>GitHub Pages hosted, pure JavaScript game as a team project back in the days...</p>
       <a target="_blank" href="https://team-kepler.github.io/looney-tooney/CanvasGame.html">
         <img src="./images/looney-tooney.gif" width="100%" alt="looney-tooney"/>
       </a>
