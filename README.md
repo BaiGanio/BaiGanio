@@ -132,67 +132,11 @@
     </td>   
   </tr>  
   <!-- END Scrooge Rental web and API project secrtion -->
-  <!-- START Weather Finder & Space University -->                                                                              
-  <tr>      
-    <td valign="top">
-      <hr />
-      <h2><em>Weather Finder</em></h2>
-      <a href="https://www.codacy.com/gh/BaiGanio/weather-finder/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/weather-finder&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/1ab03ea63f574dce99a8fde86ada70c7"/></a>
-      <p> .NET Web App + SQL Server for storing historically searched weather.</p>
-      <a target="_blank" href="https://weather-finder.azurewebsites.net/">
-        <img src="./images/weather-finder.PNG" width="100%" alt="weather-finder" />
-      </a>
-      <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/weather-finder"><em>https://github.com/BaiGanio/weather-finder</em></a></p>
-      <p>(Site): <a target="_blank" href="https://weather-finder.azurewebsites.net/"><em>https://weather-finder.azurewebsites.net</em></a></p>
-    </td>
-     <td valign="top">
-      <hr />
-      <h2><em>Space University</em></h2>
-      <a href="https://www.codacy.com/gh/BaiGanio/space-university/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/space-university&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/1fd97ddd455a4283a935e79f726cc215"/></a>
-      <p> SPA implemented with pure JavaScript & Bootstrap sugar... jQuery for manipulating the DOM & Kinvey as BaaS for storing data.</p>
-      <a href="https://baiganio.github.io/space-university/">
-        <img src="./images/space-university.PNG" width="800%" alt="space-university"/>
-      </a>
-      <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/space-university"><em>https://github.com/BaiGanio/space-university</em></a></p>   
-      <p>(Site): <a target="_blank" href="https://baiganio.github.io/space-university/"><em>https://baiganio.github.io/space-university</em></a></p> 
-    </td>
-  </tr>
-  <!-- END Weather Finder & Space University -->  
-  <!-- START OEG & js4b-->    
-  <tr>
-    <td valign="top">
-      <hr />
-      <h3>Octopus Energy Germany (OEG)</h3>
-        Digital energy retailer I worked for.
-      <br/>
-        React, Angular, Azure Service Fabric (multiple .NET APIs configured), Azure Cloud, Azure SQL Server, Azure Storage, Azure Functions, Azure Service Bus & much more....
-      <br/>
-      <br/>
-      <a target="_blank" href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/master/images/oeg.gif">
-        <img src="./images/oeg.gif" width="91%" alt="oeg"/>
-      </a>
-      <hr />
-      <p>(Site): <a target="_blank" href="https://my.octopusenergy.de/quote"><em>https://my.octopusenergy.de/quote</em></a></p>
-    </td>
-    <td valign="top">
-      <hr />
-      <h2><em>js4b - JavaScript for beginners</em></h2>
-      <a href="https://www.codacy.com/gh/BaiGanio/js4b/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/js4b&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/7a7493b6185f4610abdb7192e65cd344"/></a>
-      <p>     Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API</p>
-      <a target="_blank" href="https://baiganio.github.io/">
-        <img src="./images/js4b.gif" width="100%" alt="js4b" />
-      </a>
-      <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/js4b"><em>https://github.com/BaiGanio/js4b</em></a></p>
-      <p>(Site): <a target="_blank" href="https://baiganio.github.io/js4b/"><em>https://baiganio.github.io/js4b/</em></a></p>
-    </td>
-  </tr>
-  <!-- END OEG & js4b section -->   
+ 
 </table>
                                                               
 ---
+
  
  - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
  <a href="https://www.codacy.com/gh/BaiGanio/backoffice/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/backoffice&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/d9f10a47836341c39c30232c6541c571"/></a>
@@ -202,6 +146,10 @@
  <a href="https://www.codacy.com/gh/BaiGanio/company-house/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/company-house&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/ed1fe0695529455ab353abf2921543af"/></a>
    - Angular App backed with .NET Web API, SQL Server & Azure Functions
    - [repo files](https://github.com/BaiGanio/company-house) 
+- Site: <a target="_blank" href="https://baiganio.github.io/js4b/">https://baiganio.github.io/js4b/</a>
+   <a href="https://www.codacy.com/gh/BaiGanio/js4b/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/js4b&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/7a7493b6185f4610abdb7192e65cd344"/></a>
+   - Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
+   - [repo files](https://github.com/BaiGanio/js4b) 
 ---
 
 <!--
