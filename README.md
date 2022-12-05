@@ -3,7 +3,15 @@
 ##  [sub-section](./files/achievements.md#sub-section)  
 
 
+
+<object data="./files/learn.az-900-describe-cloud-concepts.trophy.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="./files/learn.az-900-describe-cloud-concepts.trophy.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+  </embed>
+</object>
+
 ---
+
 
 <a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
