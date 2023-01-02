@@ -3,7 +3,7 @@
 </a>
 
 <p align="center"> 
-  Visitor:<br>
+  Visitors count:<br>
   <img src="https://profile-counter.glitch.me/lkikov/count.svg" />
 </p>
 
