@@ -2,6 +2,11 @@
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
 
+<p align="center"> 
+  Visitor:<br>
+  <img src="https://profile-counter.glitch.me/lkikov/count.svg" />
+</p>
+
 - `"I've seen people who can solve complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
 - `"Knowledge is power. Knowledge shared is power multiplied."` - Robert Noyce
 - `"Not in time, place or circumstances, but in man lies success."` - Charles B. Rouss
