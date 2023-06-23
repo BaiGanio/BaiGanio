@@ -7,11 +7,28 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+#   update-readme:
+#     name: Update this repo's README
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_TITLE: true
+  download-remote-repo:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+    - name: Get private repo with action
+      uses: actions/checkout@v2
+      with:
+        repository: BaiGanio/actions-templates
+        ref: master
+        token: ${{ secrets.PAT_TOKEN }}
+    - name: List Files After remote Checkout
+      run: |
+        pwd
+        ls -a                 // I can see the checked out remote repo files in here
+        ls -al workflows
+        cat ./workflows/workflow.yml             // Can read the file without any issue
+    - name: Run a workflow file
+      uses: ./workflows/workflow.yml 
