@@ -31,6 +31,23 @@
 ---
 <h1>&#x1f4c8; <em>Statistics</em></h1>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=baiganio)
+ 
+<p align="center">
+  <a href="https://github.com/BaiGanio/baiganio.github.io/issues">
+    <img src="https://img.shields.io/github/issues/BaiGanio/baiganio.github.io"/>
+  </a>
+  <a href="https://github.com/baiganio/baiganio.github.io/network/members">
+    <img src="https://img.shields.io/github/forks/baiganio/baiganio.github.io"/>
+  </a>
+  <a href="https://github.com/baiganio/baiganio.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/baiganio/baiganio.github.io"/>
+  </a>
+  <a href="https://github.com/baiganio/baiganio.github.io/LICENSE">
+    <img src="https://img.shields.io/github/license/baiganio/baiganio.github.io"/>
+  </a>
+</p>
+
 <a href="https://github.com/BaiGanio/BaiGanio">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
       </a>
