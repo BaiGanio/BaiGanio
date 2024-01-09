@@ -197,11 +197,11 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- <table>
+<table>
   <tr>
     <td>
       <a href="https://github.com/BaiGanio/BaiGanio">
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact" />
+        <img  src="https://learn.microsoft.com/api/achievements/share/en-us/lkikov/B5Y7LQDG?sharingId=4E415AB218F64E80" />
       </a>
     </td>
     <td>
@@ -227,4 +227,4 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Tool-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=66b2b2" alt="netlify"> <br/>
     </td>
   </tr>
-</table> -->
+</table>
