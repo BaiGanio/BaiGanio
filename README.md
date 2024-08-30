@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/lkikov/count.svg" />
 </p>
 
-- `"I've seen people who can solve complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
+- `"I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
 - `"Knowledge is power. Knowledge shared is power multiplied."` - Robert Noyce
 - `"Not in time, place or circumstances, but in man lies success."` - Charles B. Rouss
 - `"At the crossroads of life there are no signposts."` - Charlie Chaplin
