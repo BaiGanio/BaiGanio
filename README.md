@@ -1,23 +1,12 @@
 <!-- HEADER --> 
 <h1 align="center">Lyuben • Bai Ganio</h1> 
-<p align="center"> • Thinker • Philosopher & Software Engineer • </p> 
+<p align="center"> • Thinker • Philosopher • Software Engineer • Architect of Thought & Code • </p> 
 
 ---
 
 <a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
-
-If you want, I can also generate:
-
-a full GitHub profile README for you
-
-a stats section with GitHub Readme Stats, Streak Stats, Wakatime, etc.
-
-a custom banner or ASCII header
-
-a complete aesthetic layout matching your style
-
 
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blue" alt="Portfolio Site" />
@@ -30,7 +19,6 @@ a complete aesthetic layout matching your style
 - `"One has to ask a little to be able to pay the price"` - Vanga
 
 <p align="center">
-  <a href="mailto:your@email.com">Email</a>
   <a href="https://baiganio.github.io" target="_blank" rel="noopener noreferrer">
     <img src="./images/world-wide-web.png" width="36px;" alt="Portfolio Site" />
   </a>
@@ -40,7 +28,8 @@ a complete aesthetic layout matching your style
   <a href="#">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=36&bg=%23ffffff&shape=circle" alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA">
+  <!-- https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA -->
+  <a href="#">
      <img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=36&bg=%23ffffff&shape=circle" alt="YouTube" />
   </a>
 </p>
@@ -62,6 +51,8 @@ a complete aesthetic layout matching your style
   </picture>
 </a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 --- 
 ## 🛠 Tech Stack 
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
@@ -70,6 +61,13 @@ a complete aesthetic layout matching your style
 
 --- 
 ### 📈 GitHub Readme Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> 
+</p>
+
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> </p>
@@ -83,36 +81,9 @@ a complete aesthetic layout matching your style
 
 ### ⏱ Wakatime (if enabled) 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio&theme=transparent&hide_border=true" /> </p> 
 
 ---
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
- <hr/>
-<p align="center">
-  <a href="https://github.com/BaiGanio/baiganio.github.io/issues">
-    <img src="https://img.shields.io/github/issues/BaiGanio/baiganio.github.io"/>
-  </a>
-  <a href="https://github.com/baiganio/baiganio.github.io/network/members">
-    <img src="https://img.shields.io/github/forks/baiganio/baiganio.github.io"/>
-  </a>
-  <a href="https://github.com/baiganio/baiganio.github.io/stargazers">
-    <img src="https://img.shields.io/github/stars/baiganio/baiganio.github.io"/>
-  </a>
-  <a href="https://github.com/baiganio/baiganio.github.io/LICENSE">
-    <img src="https://img.shields.io/github/license/baiganio/baiganio.github.io"/>
-  </a>
-</p>
- <hr/>
-<a href="https://github.com/BaiGanio/BaiGanio">
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
-      </a>
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BaiGanio)](https://github.com/BaiGanio/github-readme-stats)
-
-<a href="https://github.com/BaiGanio/BaiGanio">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&theme=nightowl&show_icons=true&line_height=28" alt="BaiGanio's GitHub Stats" />
-</a>
 
 ---
 
