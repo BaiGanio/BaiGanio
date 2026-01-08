@@ -1,3 +1,4 @@
+<a id="top"></a>
 <p align="center">
   [ <a href="#metrics">METRICS</a> ]
   · · ·
@@ -61,12 +62,14 @@
 
 ## 🛠 Tech Stack 
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
+<p align="right" style="font-size: 90%; opacity: 0.7;">
+  <a href="#top">Back to top ↑</a>
+</p>
 
 ---
 ## Projects
 <h1><em>Projects available so far?!?!</em> 🤔</h1>
 <h4><em>Read the README.md file in each repo, otherwise the working project might turn into broken one...</em> ;) 😄</h4>
-
 
 <table bordercolor="#66b2b2">
  <!-- START Free IS4 & BGAPI section -->                                                                              
@@ -178,6 +181,10 @@
    - Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
    - [repo files](https://github.com/BaiGanio/js4b)
      
+<p align="right" style="font-size: 90%; opacity: 0.7;">
+  <a href="#top">Back to top ↑</a>
+</p>
+
 ---
 
 ## About Me
@@ -190,6 +197,10 @@
 - 📫 Contact: …
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I treat writing, coding, and design as one craft — different languages for the same structure. And the ideas like Lego — break them apart, rebuild them, and pretend it was intentional all along.
+
+<p align="right" style="font-size: 90%; opacity: 0.7;">
+  <a href="#top">Back to top ↑</a>
+</p>
 
 ---
 
