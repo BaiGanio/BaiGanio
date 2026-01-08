@@ -24,7 +24,7 @@
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
 
-## 📜 Quotes
+## Quotes 📜 
 <div align="center" style="font-size: 90%; line-height: 1.35;">
 
   “I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
