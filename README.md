@@ -13,7 +13,7 @@
 - `"One has to ask a little to be able to pay the price"` - Vanga
 
 <p align="center">
-  <a href="https://www.baiganio.github.io">
+  <a href="https://baiganio.github.io">
     <img src="./images/world-wide-web.png" width="36px;" alt="Portfolio Site" />
   </a>
   <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
