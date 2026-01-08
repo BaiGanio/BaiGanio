@@ -25,11 +25,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a target="_blank" href="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/739F/production/_88399592_andrey_narchuk.jpg.webp" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
-  <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
-</a>
-<br/>
+<!--
+<figure>
+  <img src="./images/lil.png" alt="Inquisitive baby fur seal">
+  <figcaption align="center">
+    <i>(BBC News) In pictures: Sony World Photography Awards shortlist &rarr; Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.</i>
+  </figcaption>
+</figure>
+-->
+<p align="center">
+  <img src="./images/lil.png" alt="Inquisitive baby fur seal">
+  <br>
+  <sub>(BBC News) <a href="https://www.bbc.com/news/in-pictures-35639575">In pictures: Sony World Photography Awards shortlist</a> &rarr; Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea.</sub>
+</p>
 <br/>
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
