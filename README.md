@@ -3,8 +3,7 @@
 </a>
 
 <p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/lkikov/count.svg" />
+ ![](https://komarev.com/ghpvc/?username=BaiGanio)
 </p>
 
 - `"I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
@@ -41,7 +40,7 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
- 
+ <hr/>
 <p align="center">
   <a href="https://github.com/BaiGanio/baiganio.github.io/issues">
     <img src="https://img.shields.io/github/issues/BaiGanio/baiganio.github.io"/>
@@ -56,7 +55,7 @@
     <img src="https://img.shields.io/github/license/baiganio/baiganio.github.io"/>
   </a>
 </p>
-
+ <hr/>
 <a href="https://github.com/BaiGanio/BaiGanio">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
       </a>
