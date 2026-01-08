@@ -3,7 +3,7 @@
 </a>
 
 <p align="center"> 
- ![](https://komarev.com/ghpvc/?username=BaiGanio)
+   <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blue" alt="Portfolio Site" />
 </p>
 
 - `"I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
