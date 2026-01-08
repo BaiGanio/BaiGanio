@@ -1,7 +1,5 @@
 <p align="center">
-  [ <a href="#quotes">QUOTES</a> ]
-  · · ·
-  [ <a href="#metrics">METRICS</a> ]
+  [ <a href="#dashboard">DASHBOARD</a> ]
   · · ·
   [ <a href="#projects">PROJECTS</a> ]
    · · ·
@@ -30,7 +28,6 @@
   <strong>Unknown</strong><br>
   · · ·<br>
   
-
   “At the crossroads of life there are no signposts.”<br>
   <strong>Charlie Chaplin</strong><br>
   · · ·<br>
@@ -41,7 +38,7 @@
 </div>
 
 ---
-## Metrics
+## Dashboard
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10547588" target="_blank" style="display:block; text-align:center;">
