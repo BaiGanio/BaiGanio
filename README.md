@@ -2,6 +2,17 @@
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
 
+If you want, I can also generate:
+
+a full GitHub profile README for you
+
+a stats section with GitHub Readme Stats, Streak Stats, Wakatime, etc.
+
+a custom banner or ASCII header
+
+a complete aesthetic layout matching your style
+
+
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blue" alt="Portfolio Site" />
 </p>
@@ -32,12 +43,21 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=BaiGanio" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10547588" target="_blank" style="display:block; text-align:center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10547588&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @BaiGanio" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10547588&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10547588&image_size=auto&color_scheme=dark"
+    />
+    <img 
+      alt="Dashboard stats of @BaiGanio" 
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10547588&image_size=auto&color_scheme=light"
+    />
   </picture>
 </a>
+
+
+
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
  <hr/>
