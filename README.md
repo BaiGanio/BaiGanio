@@ -25,14 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<figure>
-  <img src="./images/lil.png" alt="Inquisitive baby fur seal">
-  <figcaption align="center">
-    <i>(BBC News) In pictures: Sony World Photography Awards shortlist &rarr; Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.</i>
-  </figcaption>
-</figure>
--->
 <p align="center">
   <img src="./images/lil.png" alt="Inquisitive baby fur seal">
   <br>
@@ -43,7 +35,7 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
 
-## Quotes
+## 📜 Quotes
 <p align="center">
   “I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
   <span style="font-size:90%; opacity:0.7;">— Unknown</span>
@@ -106,6 +98,9 @@ Here are some ideas to get you started:
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 --- 
+
+## 🛠 Tech Stack 
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
 
 ---
 
