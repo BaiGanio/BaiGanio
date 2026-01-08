@@ -64,13 +64,15 @@ a complete aesthetic layout matching your style
 
 --- 
 ## 🛠 Tech Stack 
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,cs,git,github,linux,vscode" /> </p> 
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
 
 ---
 
 --- 
 ### 📈 GitHub Readme Stats 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> </p>
 
 --- 
 
