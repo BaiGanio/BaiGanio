@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./images/lil.png" alt="Inquisitive baby fur seal">
   <br>
-  <sub>(BBC News) <a href="https://www.bbc.com/news/in-pictures-35639575">In pictures: Sony World Photography Awards shortlist</a> &rarr; Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea.</sub>
+  <sub><b><i>(BBC News) <a href="https://www.bbc.com/news/in-pictures-35639575">In pictures: Sony World Photography Awards shortlist</a> &rarr; Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea.</i></b></sub>
 </p>
 <br/>
 <p align="center"> 
