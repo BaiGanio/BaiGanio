@@ -36,26 +36,9 @@
   · · ·<br>
 
   “One has to ask a little to be able to pay the price.”<br>
-  <strong>Vanga</strong>
-
+  <strong>Vanga</strong><br>
+  · · ·<br>
 </div>
-
-
-<p align="center">
-  <a href="https://baiganio.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="./images/world-wide-web.png" width="24px;" alt="Portfolio Site" />
-  </a>
-  <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=24&bg=%23ffffff&shape=circle" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=24&bg=%23ffffff&shape=circle" alt="Facebook" />
-  </a>
-  <!-- https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA -->
-  <a href="#">
-     <img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=24&bg=%23ffffff&shape=circle" alt="YouTube" />
-  </a>
-</p>
 
 ---
 ## Metrics
@@ -211,4 +194,26 @@
 - ⚡ Fun fact: I treat writing, coding, and design as one craft — different languages for the same structure. And the ideas like Lego — break them apart, rebuild them, and pretend it was intentional all along.
 
 ---
+
+<!--
+
+
+
+<p align="center">
+  <a href="https://baiganio.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="./images/world-wide-web.png" width="24px;" alt="Portfolio Site" />
+  </a>
+  <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=24&bg=%23ffffff&shape=circle" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=24&bg=%23ffffff&shape=circle" alt="Facebook" />
+  </a>
+  <!-- https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA -->
+  <a href="#">
+     <img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=24&bg=%23ffffff&shape=circle" alt="YouTube" />
+  </a>
+</p>
+
+-->
 
