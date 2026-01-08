@@ -1,5 +1,5 @@
 <p align="center">
-  [ <a href="#dashboard">DASHBOARD</a> ]
+  [ <a href="#metrics">METRICS</a> ]
   · · ·
   [ <a href="#projects">PROJECTS</a> ]
    · · ·
@@ -38,7 +38,8 @@
 </div>
 
 ---
-## Dashboard
+## METRICS
+<p align="center">··· live GitHub insights ···</p>
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10547588" target="_blank" style="display:block; text-align:center;">
