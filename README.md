@@ -46,7 +46,6 @@ a complete aesthetic layout matching your style
 </p>
 
 ---
-<h1>&#x1f4c8; <em>Statistics</em></h1>
 
 <!-- Copy-paste in your Readme.md file -->
 
@@ -62,6 +61,12 @@ a complete aesthetic layout matching your style
     />
   </picture>
 </a>
+
+--- 
+## 🛠 Tech Stack 
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,cs,git,github,linux,vscode" /> </p> 
+
+---
 
 --- 
 ### 📈 GitHub Readme Stats 
