@@ -1,7 +1,6 @@
 <!-- HEADER --> 
 <h1 align="center">Lyuben • Bai Ganio</h1> 
-<p align="center"> • Thinker • Philosopher • Software Engineer • </p> 
-
+<p align="center"> • Thinker • Philosopher & Software Engineer • </p> 
 
 ---
 
