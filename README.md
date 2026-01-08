@@ -199,7 +199,7 @@
      
 ---
 
-## 👤 About Me
+## About Me
 
 - 🔭 Working on: building stange and beautiful systems, workflows, and conceptual architectures that blend philosophy, technology & aesthetics & pretend to be simple.
 - 🌱 Learning: deeper algorithmic patterns, data structures, and meta‑frameworks for scalable thinking or whatever makes my brain go "aha".
