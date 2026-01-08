@@ -24,12 +24,12 @@
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
 
-## Quotes 
-<div align="center" style="font-size: 90%; line-height: 1.35;">
+<div align="center" line-height: 1.35;">
 
-  <sub><b>“I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
+  “I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
   <strong>Unknown</strong><br>
-  · · ·<br></b></sub>
+  · · ·<br>
+  
 
   “At the crossroads of life there are no signposts.”<br>
   <strong>Charlie Chaplin</strong><br>
