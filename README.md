@@ -7,9 +7,10 @@
 <a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
+<br/>
 
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blue" alt="Portfolio Site" />
+   <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
 
 - `"I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
@@ -54,36 +55,6 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 --- 
-## 🛠 Tech Stack 
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
-
----
-
---- 
-### 📈 GitHub Readme Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> 
-</p>
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> </p>
-
---- 
-
-### 🔥 Streak Stats 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=BaiGanio /> </p>
-
---- 
-
-### ⏱ Wakatime (if enabled) 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio&theme=transparent&hide_border=true" /> </p> 
-
----
 
 ---
 
