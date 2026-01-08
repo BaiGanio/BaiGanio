@@ -1,8 +1,30 @@
+<p align="center">
+  [ <a href="#quotes">QUOTES</a> ]
+  · · ·
+  [ <a href="#metrics">METRICS</a> ]
+  · · ·
+  [ <a href="#projects">PROJECTS</a> ]
+</p>
+
 <!-- HEADER --> 
 <h1 align="center">Lyuben • Bai Ganio</h1> 
-<p align="center"> • Thinker • Philosopher • Software Engineer • Architect of Thought & Code • </p> 
+<p align="center"> • Thinker • Philosopher • Software Engineer • Architect of Thought & Code ;/ • </p> 
 
 ---
+<!--
+**BaiGanio/baiganio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
@@ -13,11 +35,32 @@
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
 
-- `"I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first..."` - Unknown
-- `"Knowledge is power. Knowledge shared is power multiplied."` - Robert Noyce
-- `"Not in time, place or circumstances, but in man lies success."` - Charles B. Rouss
-- `"At the crossroads of life there are no signposts."` - Charlie Chaplin
-- `"One has to ask a little to be able to pay the price"` - Vanga
+## Quotes
+<p align="center">
+  “I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
+  <span style="font-size:90%; opacity:0.7;">— Unknown</span>
+</p>
+
+<p align="center">
+  “Knowledge is power. Knowledge shared is power multiplied.”<br>
+  <span style="font-size:90%; opacity:0.7;">— Robert Noyce</span>
+</p>
+
+<p align="center">
+  “Not in time, place or circumstances, but in man lies success.”<br>
+  <span style="font-size:90%; opacity:0.7;">— Charles B. Rouss</span>
+</p>
+
+<p align="center">
+  “At the crossroads of life there are no signposts.”<br>
+  <span style="font-size:90%; opacity:0.7;">— Charlie Chaplin</span>
+</p>
+
+<p align="center">
+  “One has to ask a little to be able to pay the price.”<br>
+  <span style="font-size:90%; opacity:0.7;">— Vanga</span>
+</p>
+
 
 <p align="center">
   <a href="https://baiganio.github.io" target="_blank" rel="noopener noreferrer">
@@ -36,7 +79,7 @@
 </p>
 
 ---
-
+## Metrics
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10547588" target="_blank" style="display:block; text-align:center;">
@@ -170,61 +213,6 @@
 - Site: <a target="_blank" href="https://baiganio.github.io/js4b/">https://baiganio.github.io/js4b/</a>
    <a href="https://www.codacy.com/gh/BaiGanio/js4b/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/js4b&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/7a7493b6185f4610abdb7192e65cd344"/></a>
    - Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
-   - [repo files](https://github.com/BaiGanio/js4b) 
+   - [repo files](https://github.com/BaiGanio/js4b)
+     
 ---
-
-<!--
-### Hi there 👋
-## Stargazers
-
-[![Stargazers repo roster for @BaiGanio/BaiGanio](https://reporoster.com/stars/BaiGanio/BaiGanio)](https://github.com/BaiGanio/BaiGanio/stargazers)
-
--->
-
-<!--
-**BaiGanio/baiganio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/BaiGanio/BaiGanio">
-        <img  src="https://learn.microsoft.com/api/achievements/share/en-us/lkikov/B5Y7LQDG?sharingId=4E415AB218F64E80" />
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=66b2b2" alt="javascript"> <br/>
-      <img src="https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=66b2b2" alt="typescript"> <br/>
-      <img src="https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=66b2b2" alt="csharp"> <br/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Web%20Dev-Angular-informational?style=flat&logo=Angular&logoColor=white&color=66b2b2" alt="angular"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-React-informational?style=flat&logo=react&logoColor=white&color=66b2b2" alt="react"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=66b2b2" alt="node.js"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-CSS-informational?style=flat&logo=css3&logoColor=white&color=66b2b2" alt="css"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-HTML-informational?style=flat&logo=html5&logoColor=white&color=66b2b2" alt="html"> <br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=66b2b2" alt="bootstrap"> <br/>
-         <img src="https://img.shields.io/badge/Web%20Dev-DotNet-informational?style=flat&logo=dotnet&logoColor=white&color=66b2b2" alt="dotnet"> <br/>
-    </td>
-    <td>
-        <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=AzureCloud&logoColor=white&color=66b2b2" alt="azure"> <br/>
-      <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=66b2b2" alt="git"> <br/>
-      <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=66b2b2" alt="github"> <br/>
-      <img src="https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=GNU-bash&logoColor=white&color=66b2b2" alt="bash"> <br/>
-      <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=66b2b2" alt="postgresql"> <br/>
-      <img src="https://img.shields.io/badge/Tool-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=66b2b2" alt="netlify"> <br/>
-    </td>
-  </tr>
-</table>
