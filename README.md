@@ -13,17 +13,22 @@
 - `"One has to ask a little to be able to pay the price"` - Vanga
 
 <p align="center">
+  
+![github](https://readmecodegen.vercel.app/api/social-icon?name=github&showText=true&textAlignment=horizontal&color=ffffff&theme=dark&bg=%23000000)
+
+  [![whatsapp](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://github.com/yourusername)
+  
   <a href="#">
     <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
   <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
-    <img src="./images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=36&bg=%23ffffff&shape=circle" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/baiganio.github.io">
-    <img src="./images/facebook.jpg" width="30px;" alt="Facebook" />
+  <a href="#">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=36&bg=%23ffffff&shape=circle" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA">
-    <img src="./images/youtube.png" width="30px;" alt="YouTube"/>
+     <img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=36&bg=%23ffffff&shape=circle" alt="YouTube" />
   </a>
 </p>
 
