@@ -1,3 +1,10 @@
+<!-- HEADER --> 
+<h1 align="center">Lyuben • Bai Ganio</h1> 
+<p align="center"> • Thinker • Philosopher • Software Engineer • </p> 
+
+
+---
+
 <a target="_blank" href="https://www.bbc.com/news/in-pictures-35639575" title="(BBC News) In pictures: Sony World Photography Awards shortlist -> Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea is shortlisted in the Open Nature and Wildlife section.">
   <img src="./images/lil.png" width="100%" alt="(BBC News) In pictures: Sony World Photography Awards shortlist">
 </a>
@@ -24,6 +31,7 @@ a complete aesthetic layout matching your style
 - `"One has to ask a little to be able to pay the price"` - Vanga
 
 <p align="center">
+  <a href="mailto:your@email.com">Email</a>
   <a href="https://baiganio.github.io" target="_blank" rel="noopener noreferrer">
     <img src="./images/world-wide-web.png" width="36px;" alt="Portfolio Site" />
   </a>
@@ -56,8 +64,22 @@ a complete aesthetic layout matching your style
   </picture>
 </a>
 
+--- 
+### 📈 GitHub Readme Stats 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaiGanio&show_icons=true&theme=transparent&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiGanio&layout=compact&theme=transparent&hide_border=true" height="165" /> </p>
 
+--- 
 
+### 🔥 Streak Stats 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=BaiGanio /> </p>
+
+--- 
+
+### ⏱ Wakatime (if enabled) 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiGanio" /> </p> 
+
+---
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
  <hr/>
