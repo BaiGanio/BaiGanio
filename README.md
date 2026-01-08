@@ -13,13 +13,8 @@
 - `"One has to ask a little to be able to pay the price"` - Vanga
 
 <p align="center">
-  
-![github](https://readmecodegen.vercel.app/api/social-icon?name=github&showText=true&textAlignment=horizontal&color=ffffff&theme=dark&bg=%23000000)
-
-  [![whatsapp](https://readmecodegen.vercel.app/api/social-icon?name=github)](https://github.com/yourusername)
-  
-  <a href="#">
-    <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
+  <a href="https://www.baiganio.github.io">
+    <img src="./images/world-wide-web.png" width="36px;" alt="Portfolio Site" />
   </a>
   <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=36&bg=%23ffffff&shape=circle" alt="LinkedIn" />
