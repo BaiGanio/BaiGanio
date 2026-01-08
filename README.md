@@ -4,6 +4,8 @@
   [ <a href="#metrics">METRICS</a> ]
   · · ·
   [ <a href="#projects">PROJECTS</a> ]
+   · · ·
+  [ <a href="#about-me">ABOUT ME</a> ]
 </p>
 
 <!-- HEADER --> 
@@ -11,20 +13,7 @@
 <p align="center"> • Thinker • Philosopher • Software Engineer • Architect of Thought & Code ;/ • </p> 
 
 ---
-<!--
-**BaiGanio/baiganio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="./images/lil.png" alt="Inquisitive baby fur seal">
   <br>
@@ -36,45 +25,35 @@ Here are some ideas to get you started:
 </p>
 
 ## 📜 Quotes
-<p align="center">
+<div align="center" style="font-size: 90%; line-height: 1.35;">
+
   “I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
-  <span style="font-size:90%; opacity:0.7;">— Unknown</span>
-</p>
+  <strong>Unknown</strong><br>
+  · · ·<br>
 
-<p align="center">
-  “Knowledge is power. Knowledge shared is power multiplied.”<br>
-  <span style="font-size:90%; opacity:0.7;">— Robert Noyce</span>
-</p>
-
-<p align="center">
-  “Not in time, place or circumstances, but in man lies success.”<br>
-  <span style="font-size:90%; opacity:0.7;">— Charles B. Rouss</span>
-</p>
-
-<p align="center">
   “At the crossroads of life there are no signposts.”<br>
-  <span style="font-size:90%; opacity:0.7;">— Charlie Chaplin</span>
-</p>
+  <strong>Charlie Chaplin</strong><br>
+  · · ·<br>
 
-<p align="center">
   “One has to ask a little to be able to pay the price.”<br>
-  <span style="font-size:90%; opacity:0.7;">— Vanga</span>
-</p>
+  <strong>Vanga</strong>
+
+</div>
 
 
 <p align="center">
   <a href="https://baiganio.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="./images/world-wide-web.png" width="36px;" alt="Portfolio Site" />
+    <img src="./images/world-wide-web.png" width="24px;" alt="Portfolio Site" />
   </a>
   <a href="https://www.linkedin.com/in/lyuben-kikov-617a90101/">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=36&bg=%23ffffff&shape=circle" alt="LinkedIn" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=24&bg=%23ffffff&shape=circle" alt="LinkedIn" />
   </a>
   <a href="#">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=36&bg=%23ffffff&shape=circle" alt="Facebook" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=24&bg=%23ffffff&shape=circle" alt="Facebook" />
   </a>
   <!-- https://www.youtube.com/channel/UCczegwwjd8YyeophFBIJ4EA -->
   <a href="#">
-     <img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=36&bg=%23ffffff&shape=circle" alt="YouTube" />
+     <img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=24&bg=%23ffffff&shape=circle" alt="YouTube" />
   </a>
 </p>
 
@@ -103,7 +82,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
 
 ---
-
+## Projects
 <h1><em>Projects available so far?!?!</em> 🤔</h1>
 <h4><em>Read the README.md file in each repo, otherwise the working project might turn into broken one...</em> ;) 😄</h4>
 
@@ -219,3 +198,17 @@ Here are some ideas to get you started:
    - [repo files](https://github.com/BaiGanio/js4b)
      
 ---
+
+## 👤 About Me
+
+- 🔭 Working on: building stange and beautiful systems, workflows, and conceptual architectures that blend philosophy, technology & aesthetics & pretend to be simple.
+- 🌱 Learning: deeper algorithmic patterns, data structures, and meta‑frameworks for scalable thinking or whatever makes my brain go "aha".
+- 👯 Collaboration: open to projects involving conceptual design, algorithmic mastery, with humans who enjoy structure, philosophy, and a little bit of mischief..
+- 🤔 Need help with: anything that requires 17 hands or a second brain.
+- 💬 Ask me about: systems thinking, conceptual design, algorithms, software architectures, or why simplicity is the ultimate flex.
+- 📫 Contact: …
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I treat writing, coding, and design as one craft — different languages for the same structure. And the ideas like Lego — break them apart, rebuild them, and pretend it was intentional all along.
+
+---
+
