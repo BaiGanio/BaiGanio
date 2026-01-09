@@ -193,8 +193,8 @@
 <table>
   <!-- HEADER ROW --> 
   <tr> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version</th> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия</th> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version (free PDF)</th> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия (безплатен PDF)</th> 
   </tr>
   <tr>
     <!-- English Version -->
@@ -220,6 +220,8 @@
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> <div style=" width:20%; background:#4caf50; height:100%; "></div> </div>
         <small style="opacity:0.8;">40% written</small>
       </div>
+       <!-- Download Button --> 
+       <a href="./files/book.pdf" download style="text-decoration:none;"> <div style=" display:inline-block; padding:8px 14px; background:#4caf50; color:white; border-radius:6px; font-size:14px; font-weight:600; "> ⬇️ Download </div> </a>
     </td>
     <!-- Bulgarian Version --> 
     <td align="center" valign="top"> 
@@ -233,7 +235,11 @@
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
           <div style=" width:20%; background:#4caf50; height:100%; "></div> 
         </div> 
-        <small style="opacity:0.8;">20% написана</small> </div> </td>
+        <small style="opacity:0.8;">20% написана</small> 
+      </div> 
+      <!-- Download Button --> 
+       <a href="./files/book.pdf" download style="text-decoration:none;"> <div style=" display:inline-block; padding:8px 14px; background:#4caf50; color:white; border-radius:6px; font-size:14px; font-weight:600; "> ⬇️ Download </div> </a>
+    </td>
   </tr>
 </table>
 </div>
