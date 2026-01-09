@@ -43,7 +43,7 @@
 </div>
 
 ---
-## METRICS
+# METRICS
 <p align="center">··· live GitHub insights ···</p>
 <!-- Copy-paste in your Readme.md file -->
 
