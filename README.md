@@ -43,8 +43,10 @@
 </div>
 
 ---
-# METRICS
-<p align="center">··· live GitHub insights ···</p>
+## METRICS
+<p align="center" style="font-size:16px; opacity:0.8;">
+  ··· <strong>live GitHub insights</strong> ···
+</p>
 <!-- Copy-paste in your Readme.md file -->
 
  <picture>
@@ -61,7 +63,7 @@
 
 --- 
 
-## 🛠 Tech Stack 
+### 🛠 Tech Stack 
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
 <p align="right" style="font-size: 90%; opacity: 0.7;">
   [<a href="#top">Back to top ↑</a>]
