@@ -71,8 +71,8 @@
 
 ---
 ## Projects
-<h1><em>Projects available so far?!?!</em> 🤔</h1>
-<h4><em>Read the README.md file in each repo, otherwise the working project might turn into broken one...</em> ;) 😄</h4>
+<b>This section shows workbench projects available so far?!?!</b> 🤔<br/>
+❗Read the README.md file in each repo, otherwise the working project might turn into broken one... ;) 😄
 
 <table bordercolor="#66b2b2">
  <!-- START Free IS4 & BGAPI section -->                                                                              
