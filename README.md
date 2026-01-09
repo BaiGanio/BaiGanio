@@ -1,4 +1,4 @@
-<br><br><a id="top"></a><br><br>
+<a id="top"></a>
 <p align="center">
   [ <a href="#metrics">METRICS</a> ]
   · · ·
