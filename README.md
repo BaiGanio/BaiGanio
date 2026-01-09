@@ -204,10 +204,10 @@
     <td align="center" valign="top">
       <div style="width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif;">
         <a href="#">
-          <img src="./images/free-is4.PNG" width="360">
+          <img src="./images/cannibal.jpg" width="360">
         </a>
         <br><br>
-        <strong>Book Title (English)</strong><br>
+        <strong>1bit</strong><br>
         <span style="display:inline-block;
           background:#ffd54f;
           padding:2px 8px;
@@ -217,7 +217,7 @@
           In Progress
         </span>
         <br><br>
-        <small>Release Date: <strong>2025</strong></small>
+        <small>Release Date: <strong>2027</strong></small>
         <br><br>
         <!-- Progress Bar --> 
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> <div style=" width:20%; background:#4caf50; height:100%; "></div> </div>
@@ -227,11 +227,11 @@
     <!-- Bulgarian Version --> 
     <td align="center" valign="top"> 
       <div style=" width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif; "> 
-        <a href="#"> <img src="./images/free-is4.PNG" width="360"> </a> 
+        <a href="#"> <img src="./images/cannibal.jpg" width="360"> </a> 
         <br><br> 
-        <strong>Book Title (Български)</strong><br> 
+        <strong>1бит</strong><br> 
         <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; "> В процес </span> <br><br> 
-        <small>Дата на издаване: <strong>2025</strong></small> <br><br> 
+        <small>Дата на издаване: <strong>2027</strong></small> <br><br> 
         <!-- Progress Bar --> 
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
           <div style=" width:20%; background:#4caf50; height:100%; "></div> 
