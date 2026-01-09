@@ -2,66 +2,14 @@
 <p align="center">
   [ <a href="#metrics">METRICS</a> ]
   · · ·
-  [ <a href="#projects">PROJECTS</a> ]
+  [ <a href="#projects">PROJECTS</a> ]  
+  · · ·
+  [ <a href="#books">BOOKS</a> ]
    · · ·
   [ <a href="#about-me">ABOUT ME</a> ]
    · · ·
   [ <a href="#about-me">ARTICLES</a> ] 
-  · · ·
-  [ <a href="#about-me">BOOKS</a> ]
 </p>
-
-## 📚 Books
-<div align="center">
-<table>
-  <!-- HEADER ROW --> 
-  <tr> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version</th> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия</th> 
-  </tr>
-  <tr>
-    <!-- English Version -->
-    <td align="center" valign="top">
-      <div style="width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif;">
-        <a href="#">
-          <img src="./images/free-is4.PNG" width="360">
-        </a>
-        <br><br>
-        <strong>Book Title (English)</strong><br>
-        <span style="display:inline-block;
-          background:#ffd54f;
-          padding:2px 8px;
-          border-radius:6px;
-          font-size:12px;
-          margin-top:6px;">
-          In Progress
-        </span>
-        <br><br>
-        <small>Release Date: <strong>2025</strong></small>
-        <br><br>
-        <!-- Progress Bar --> 
-        <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> <div style=" width:20%; background:#4caf50; height:100%; "></div> </div>
-        <small style="opacity:0.8;">40% written</small>
-      </div>
-    </td>
-    <!-- Bulgarian Version --> 
-    <td align="center" valign="top"> 
-      <div style=" width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif; "> 
-        <a href="#"> <img src="./images/free-is4.PNG" width="360"> </a> 
-        <br><br> 
-        <strong>Book Title (Български)</strong><br> 
-        <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; "> В процес </span> <br><br> 
-        <small>Дата на издаване: <strong>2025</strong></small> <br><br> 
-        <!-- Progress Bar --> 
-        <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
-          <div style=" width:20%; background:#4caf50; height:100%; "></div> 
-        </div> 
-        <small style="opacity:0.8;">20% написана</small> </div> </td>
-  </tr>
-</table>
-</div>
-
-
 
 <!-- HEADER --> 
 <h1 align="center">Lyuben • Bai Ganio</h1> 
@@ -240,6 +188,58 @@
 <p align="right" style="font-size: 90%; opacity: 0.7;">
   <a href="#top">Back to top ↑</a>
 </p>
+
+---
+
+## Books
+<div align="center">
+<table>
+  <!-- HEADER ROW --> 
+  <tr> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version</th> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия</th> 
+  </tr>
+  <tr>
+    <!-- English Version -->
+    <td align="center" valign="top">
+      <div style="width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif;">
+        <a href="#">
+          <img src="./images/free-is4.PNG" width="360">
+        </a>
+        <br><br>
+        <strong>Book Title (English)</strong><br>
+        <span style="display:inline-block;
+          background:#ffd54f;
+          padding:2px 8px;
+          border-radius:6px;
+          font-size:12px;
+          margin-top:6px;">
+          In Progress
+        </span>
+        <br><br>
+        <small>Release Date: <strong>2025</strong></small>
+        <br><br>
+        <!-- Progress Bar --> 
+        <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> <div style=" width:20%; background:#4caf50; height:100%; "></div> </div>
+        <small style="opacity:0.8;">40% written</small>
+      </div>
+    </td>
+    <!-- Bulgarian Version --> 
+    <td align="center" valign="top"> 
+      <div style=" width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif; "> 
+        <a href="#"> <img src="./images/free-is4.PNG" width="360"> </a> 
+        <br><br> 
+        <strong>Book Title (Български)</strong><br> 
+        <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; "> В процес </span> <br><br> 
+        <small>Дата на издаване: <strong>2025</strong></small> <br><br> 
+        <!-- Progress Bar --> 
+        <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
+          <div style=" width:20%; background:#4caf50; height:100%; "></div> 
+        </div> 
+        <small style="opacity:0.8;">20% написана</small> </div> </td>
+  </tr>
+</table>
+</div>
 
 ---
 
