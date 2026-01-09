@@ -47,8 +47,7 @@
 <p align="center">··· live GitHub insights ···</p>
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10547588" target="_blank" style="display:block; text-align:center;">
-  <picture>
+ <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
       srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10547588&image_size=auto&color_scheme=dark"
@@ -58,8 +57,6 @@
       src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10547588&image_size=auto&color_scheme=light"
     />
   </picture>
-</a>
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 --- 
