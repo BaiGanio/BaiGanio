@@ -13,7 +13,7 @@
 </p>
 
 ---
-<p align="center"> • Thinker • Philosopher • Software Engineer • Architect of Thought & Code ;/ • </p> 
+<p align="center"> I'm • Thinker • Philosopher • Software Engineer • Designer of Ideas & Algorithms • Architect of Thought & Code ;/ • </p> 
 
 ---
 
