@@ -257,6 +257,37 @@
 
 ---
 
+## 📚 Articles
+
+> **🐳 Docker & .NET Series**  
+> Practical guides for containerizing modern .NET applications.
+
+- **🚀 Learn how to package and run a .NET console app inside Docker.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-console-app)
+- **⚡ Build and containerize a lightweight .NET Core API.** - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(MInimal-API-support))
+- **🔗 Add GraphQL support and ship it in a container.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(GraphQL-support))
+
+<p align="right" style="font-size: 90%; opacity: 0.7;">
+  <a href="#top">Back to top ↑</a>
+</p>
+
+
+## Why Bai Ganio?
+
+📜 The Remark
+
+> **The GitHub profile name BaiGanio carries a deliberate literary weight.**  
+> Behind it stands Aleko Konstantinov, the Bulgarian satirist who created the character Бай Ганьо (Bai Ganio) and wrote with unmatched clarity about society, ambition, and the contradictions of modernization.
+
+### Aleko — known by the pseudonym ["Щастливеца"](https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D0%BE_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2) (The Lucky One)— used satire to expose the emerging flaws of a rapidly changing Bulgaria. He was a lawyer, writer, traveler, and one of the earliest Bulgarian observers of Western progress, describing his journeys to Paris, Prague, and [Chicago](https://www.goodreads.com/author/show/6805445.Aleko_Konstantinov).
+
+### Aleko was “The Lucky One.”
+Not because of fortune, but because he believed in movement, progress, and public good.
+
+Aleko created a character bigger than himself.
+I'm creating a GitHub ecosystem bigger than a single repo — a living, self‑maintaining knowledge graph.
+
+---
+
 ## About Me
 
 - 🔭 Working on: building stange and beautiful systems, workflows, and conceptual architectures that blend philosophy, technology & aesthetics & pretend to be simple.
@@ -267,21 +298,6 @@
 - 📫 Contact: …
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I treat writing, coding, and design as one craft — different languages for the same structure. And the ideas like Lego — break them apart, rebuild them, and pretend it was intentional all along.
-
-<p align="right" style="font-size: 90%; opacity: 0.7;">
-  <a href="#top">Back to top ↑</a>
-</p>
-
----
-
-## 📚 Articles
-
-> **🐳 Docker & .NET Series**  
-> Practical guides for containerizing modern .NET applications.
-
-- **🚀 Learn how to package and run a .NET console app inside Docker.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-console-app)
-- **⚡ Build and containerize a lightweight .NET Core API.** - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(MInimal-API-support))
-- **🔗 Add GraphQL support and ship it in a container.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(GraphQL-support))
 
 <p align="right" style="font-size: 90%; opacity: 0.7;">
   <a href="#top">Back to top ↑</a>
