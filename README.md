@@ -1,4 +1,5 @@
 <a id="top"></a>
+<!-- HEADER --> 
 <p align="center">
   [ <a href="#metrics">METRICS</a> ]
   · · ·
@@ -11,11 +12,12 @@
   [ <a href="#about-me">ARTICLES</a> ] 
 </p>
 
-<!-- HEADER --> 
-<h1 align="center">Lyuben • Bai Ganio</h1> 
+---
 <p align="center"> • Thinker • Philosopher • Software Engineer • Architect of Thought & Code ;/ • </p> 
 
 ---
+
+
 
 <p align="center">
   <img src="./images/lil.png" alt="Inquisitive baby fur seal">
