@@ -14,6 +14,8 @@
   [ <a href="#about-me">ARTICLES</a> ] 
    · · ·
   [ <a href="#why-bai-ganio">WHY BAI GANIO?</a> ] 
+   · · ·
+  [ <a href="#me">ME</a> ]
 </p>
 
 ---
@@ -291,16 +293,27 @@
 
 ---
 
-## About Me
+## Me
 
-- 🔭 Working on: building stange and beautiful systems, workflows, and conceptual architectures that blend philosophy, technology & aesthetics & pretend to be simple.
-- 🌱 Learning: deeper algorithmic patterns, data structures, and meta‑frameworks for scalable thinking or whatever makes my brain go "aha".
-- 👯 Collaboration: open to projects involving conceptual design, algorithmic mastery, with humans who enjoy structure, philosophy, and a little bit of mischief..
-- 🤔 Need help with: anything that requires 17 hands or a second brain.
-- 💬 Ask me about: systems thinking, conceptual design, algorithms, software architectures, or why simplicity is the ultimate flex.
-- 📫 Contact: …
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I treat writing, coding, and design as one craft — different languages for the same structure. And the ideas like Lego — break them apart, rebuild them, and pretend it was intentional all along.
+<table>
+<tr>
+<td width="250">
+<img src="YOUR_IMAGE_URL" width="230" />
+</td>
+<td>
+
+🔭 **Working on:** building strange and beautiful systems, workflows, and conceptual architectures that blend philosophy, technology & aesthetics & pretend to be simple.  
+🌱 **Learning:** deeper algorithmic patterns, data structures, and meta‑frameworks for scalable thinking or whatever makes my brain go "aha".  
+👯 **Collaboration:** open to projects involving conceptual design, algorithmic mastery, with humans who enjoy structure, philosophy, and a little bit of mischief.  
+🤔 **Need help with:** anything that requires 17 hands or a second brain.  
+💬 **Ask me about:** systems thinking, conceptual design, algorithms, software architectures, or why simplicity is the ultimate flex.  
+📫 **Contact:** …  
+😄 **Pronouns:** he/him  
+⚡ **Fun fact:** I treat writing, coding, and design as one craft — different languages for the same structure. And the ideas like Lego — break them apart, rebuild them, and pretend it was intentional all along.
+
+</td>
+</tr>
+</table>
 
 <p align="right" style="font-size: 90%; opacity: 0.7;">
   <a href="#top">Back to top ↑</a>
