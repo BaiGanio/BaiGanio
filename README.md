@@ -6,10 +6,14 @@
   [ <a href="#projects">PROJECTS</a> ]  
   · · ·
   [ <a href="#books">BOOKS</a> ]
+  <!--
    · · ·
   [ <a href="#about-me">ABOUT ME</a> ]
+  -->
    · · ·
   [ <a href="#about-me">ARTICLES</a> ] 
+   · · ·
+  [ <a href="#why-bai-ganio">WHY BAI GANIO?</a> ] 
 </p>
 
 ---
