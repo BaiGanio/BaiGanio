@@ -1,1 +1,63 @@
+name: "💬 Community Question / Feedback"
+description: "Ask a question, report something unclear, suggest improvements, or share feedback."
+title: "[Community] "
+labels: ["community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the community discussion!  
+        Use this template for:
+        - Questions  
+        - Clarifications  
+        - Complaints  
+        - Suggestions  
+        - Chapter feedback  
+        - Anything that helps improve the project  
+
+        Be honest, be curious, be constructive.
+
+  - type: input
+    id: topic
+    attributes:
+      label: "Topic"
+      description: "What is this about? (e.g., Chapter 3, Rate Limiter, README, Wiki)"
+      placeholder: "Example: Chapter 1 — Scaling basics"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "What’s on your mind?"
+      description: "Describe your question, confusion, complaint, or suggestion."
+      placeholder: "Tell me what feels unclear, wrong, missing, or interesting."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "What did you expect?"
+      description: "If something felt wrong or confusing, what did you expect instead?"
+      placeholder: "Example: I expected the caching explanation to include Redis vs Memcached."
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context"
+      description: "Anything else that might help? Screenshots, links, examples, etc."
+      placeholder: "Optional but helpful."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I searched existing issues to avoid duplicates"
+        - label: "I understand this issue will appear publicly in the README community section"
 
