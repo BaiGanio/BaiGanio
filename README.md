@@ -297,8 +297,8 @@
 
 <table>
 <tr>
-<td width="250">
-<img src="YOUR_IMAGE_URL" width="230" />
+<td width="360">
+<img src="./images/reader.jpg" />
 </td>
 <td>
 
