@@ -270,10 +270,16 @@
 
 ---
 
-## Articles
+## 📚 Articles
 
+> **🐳 Docker & .NET Series**  
+> Practical guides for containerizing modern .NET applications.
 
---
+- **🚀 I put a .NET Console App in a box. It survived. Learn how to package and run a .NET console app inside Docker.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-console-app)
+- **⚡ Minimal API meets Docker & they've become best friends. Build and containerize a lightweight .NET Core API.** - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(MInimal-API-support))
+- **🔗 GraphQL inside a container. What could go wrong? Add GraphQL support and ship it in a container.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(GraphQL-support))
+
+---
 
 <!--
 <p align="center">
