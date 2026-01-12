@@ -259,7 +259,7 @@
 
 ---
 
-## 📚 Articles
+## Articles
 
 > **🐳 Docker & .NET Series**  
 > Practical guides for containerizing modern .NET applications.
