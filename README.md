@@ -171,28 +171,40 @@
     </td>   
   </tr>  
   <!-- END Scrooge Rental web and API project secrtion -->
+   <!-- START COSMIC ORIGINS section -->
+  <tr>
+    <td valign="top">
+      <hr />
+      <h3>Cosmic Origins</h3>
+        <p>Exoplanets and moons, nebulas, galaxies - just name it.
+          SPA built on top of pure HTML, CSS and JavaScript. Fancy look thanks to Bootstrap. Hosted on GitHub pages. Uses Firebase as BaaS & specifically Firestore as database.</p>
+      <br/>
+      <br/>
+      <a href="https://baiganio.github.io/Scrooge-Rental/">
+        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/cosmic-origins"><em>https://github.com/BaiGanio/cosmic-origins</em></a> </p>
+      <p>(Site): <a target="_blank" href="https://baiganio.github.io/cosmic-origins"><em>https://baiganio.github.io/cosmic-origins<em></a></p>
+    </td>
+     <td valign="top">
+      <hr />
+      <h3>Scrooge Rental API</h3>
+      <a href="https://www.codacy.com/gh/BaiGanio/scrooge-rental-api/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/scrooge-rental-api&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/aa24e0312b994735a5335f96c2a461e9"/></a>
+    <p>Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.</p>
+      <br/>
+       <br/>
+      <a href="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png">
+        <img src="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>https://github.com/BaiGanio/scrooge-rental-api</em></a></p>
+      <p>(Site):  <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>https://scrooge-rental-api.azurewebsites.net/graphql</em></a></p>
+    </td>   
+  </tr>  
+  <!-- END Scrooge Rental web and API project secrtion -->
  
 </table>
-                                                              
----
-
- 
- - Site: <a target="_blank" href="https://baiganio.github.io/backoffice/">https://baiganio.github.io/backoffice/</a>
- <a href="https://www.codacy.com/gh/BaiGanio/backoffice/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/backoffice&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/d9f10a47836341c39c30232c6541c571"/></a>
-   - React App backed with .NET Web API & SQL Server
-   - [repo files](https://github.com/BaiGanio/backoffice) 
- - Site: <a target="_blank" href="https://baiganio.github.io/company-house/">https://baiganio.github.io/company-house/</a>
- <a href="https://www.codacy.com/gh/BaiGanio/company-house/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/company-house&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/ed1fe0695529455ab353abf2921543af"/></a>
-   - Angular App backed with .NET Web API, SQL Server & Azure Functions
-   - [repo files](https://github.com/BaiGanio/company-house) 
-- Site: <a target="_blank" href="https://baiganio.github.io/js4b/">https://baiganio.github.io/js4b/</a>
-   <a href="https://www.codacy.com/gh/BaiGanio/js4b/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/js4b&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/7a7493b6185f4610abdb7192e65cd344"/></a>
-   - Pure JS & Bootstrap sugar. Basic example on how to fetch data from external API
-   - [repo files](https://github.com/BaiGanio/js4b)
-     
-<p align="right" style="font-size: 90%; opacity: 0.7;">
-  <a href="#top">Back to top ↑</a>
-</p>
 
 ---
 
