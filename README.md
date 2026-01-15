@@ -190,13 +190,9 @@
      <td valign="top">
       <hr />
       <h3>Working on it...</h3>
-      <p>N/A</p>
       <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/refs/heads/master/images/reader.jpg">
         <img src="./images/reader.jpg"" width="100%" alt="reader"/>
       </a>
-      <hr />
-      <p>(Repo): N/A</p>
-      <p>(Site): N/A </p>
     </td>   
   </tr>  
   <!-- END COSMIC ORIGINS section -->
