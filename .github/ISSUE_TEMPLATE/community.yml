@@ -1,63 +1,60 @@
-name: "💬 Community Question / Feedback"
-description: "Ask a question, report something unclear, suggest improvements, or share feedback."
-title: "[Community] "
-labels: ["community"]
+name: "🌌 Cosmic Contribution"
+description: "Propose lore, science ideas, UX concepts, code improvements, or any contribution to Cosmic Origins."
+title: "[Contribution] "
+labels: ["contribution"]
+
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for contributing to the community discussion!  
+        Thanks for contributing to Cosmic Origins!  
         Use this template for:
-        - Questions  
-        - Clarifications  
-        - Complaints  
-        - Suggestions  
-        - Chapter feedback  
-        - Anything that helps improve the project  
+        - Lore additions  
+        - Worldbuilding ideas  
+        - Scientific proposals  
+        - UX / visual concepts  
+        - Code improvements  
+        - Documentation updates  
+        - Anything that expands or improves the project  
 
-        Be honest, be curious, be constructive.
+        Be creative, be clear, be cosmic.
 
   - type: input
     id: topic
     attributes:
-      label: "Topic"
-      description: "What is this about? (e.g., Chapter 3, Rate Limiter, README, Wiki)"
-      placeholder: "Example: Chapter 1 — Scaling basics"
+      label: "Contribution Topic"
+      description: "What area does this relate to? (e.g., Lore, Physics Model, UI Concept, Chapter 2)"
+      placeholder: "Example: Lore — Origin of the Nebula Seraphis"
     validations:
       required: true
 
   - type: textarea
-    id: description
+    id: summary
     attributes:
-      label: "What’s on your mind?"
-      description: "Describe your question, confusion, complaint, or suggestion."
-      placeholder: "Tell me what feels unclear, wrong, missing, or interesting."
+      label: "Summary"
+      description: "Describe your idea or contribution in 2–3 sentences."
+      placeholder: "What is the core idea you want to add or improve?"
     validations:
       required: true
 
   - type: textarea
-    id: expected
+    id: details
     attributes:
-      label: "What did you expect?"
-      description: "If something felt wrong or confusing, what did you expect instead?"
-      placeholder: "Example: I expected the caching explanation to include Redis vs Memcached."
+      label: "Proposed Details"
+      description: "Add specifics: concepts, diagrams, pseudocode, story elements, UI sketches, data models, etc."
+      placeholder: "Explain the details of your contribution."
     validations:
       required: false
 
   - type: textarea
-    id: context
+    id: impact
     attributes:
-      label: "Additional context"
-      description: "Anything else that might help? Screenshots, links, examples, etc."
-      placeholder: "Optional but helpful."
+      label: "Expected Impact"
+      description: "How does this improve the project? (lore depth, realism, UX, performance, clarity, maintainability)"
+      placeholder: "Describe the value this contribution brings."
     validations:
       required: false
 
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: "Checklist"
-      options:
-        - label: "I searched existing issues to avoid duplicates"
-        - label: "I understand this issue will appear publicly in the README community section"
-
+  - type: textarea
+    id: testing
+    attributes
