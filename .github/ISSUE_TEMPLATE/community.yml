@@ -57,4 +57,26 @@ body:
 
   - type: textarea
     id: testing
-    attributes
+    attributes:
+      label: "Testing / Validation (Optional)"
+      description: "How could this be tested or validated? (scenarios, examples, acceptance criteria)"
+      placeholder: "Optional but helpful."
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Additional Notes"
+      description: "Anything else maintainers should know."
+      placeholder: "Optional."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I searched existing issues to avoid duplicates"
+        - label: "I understand this issue will appear publicly in the Cosmic Origins community section"
