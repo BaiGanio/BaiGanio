@@ -283,7 +283,7 @@
 **📜 The Remark**
 
 > **The GitHub profile name BaiGanio carries a deliberate literary weight.**  
-> Behind it stands Aleko Konstantinov, the Bulgarian satirist who created the character [Бай Ганьо](https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9_%D0%93%D0%B0%D0%BD%D1%8C%D0%BE) (Bai Ganio) and wrote with unmatched clarity about society, ambition, and the contradictions of modernization.
+> Behind it stands Aleko Konstantinov. Born in 1863, he became the Bulgarian satirist who created the character [Бай Ганьо](https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9_%D0%93%D0%B0%D0%BD%D1%8C%D0%BE) (Bai Ganio) and wrote with unmatched clarity about society, ambition, and the contradictions of modernization.
 
 > **Aleko — known by the pseudonym ["Щастливеца"](https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D0%BE_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2) (The Lucky One)— used satire to expose the emerging flaws of a rapidly changing Bulgaria.** 
 > He was a lawyer, writer, traveler, and one of the earliest Bulgarian observers of Western progress, describing his journeys to Paris, Prague, and [Chicago](https://www.goodreads.com/author/show/6805445.Aleko_Konstantinov).
