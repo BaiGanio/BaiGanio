@@ -180,8 +180,8 @@
           SPA built on top of pure HTML, CSS and JavaScript. Fancy look thanks to Bootstrap. Hosted on GitHub pages. Uses Firebase as BaaS & specifically Firestore as database.</p>
       <br/>
       <br/>
-      <a href="https://baiganio.github.io/Scrooge-Rental/">
-        <img src="./images/scrooge-rental.PNG" width="100%" alt="scrooge-rental"/>
+      <a href="https://baiganio.github.io/cosmic-origins/">
+        <img src="./images/cosmic-origins-dark.png" width="100%" alt="cosmic-origins"/>
       </a>
       <hr />
       <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/cosmic-origins"><em>https://github.com/BaiGanio/cosmic-origins</em></a> </p>
