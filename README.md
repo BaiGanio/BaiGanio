@@ -189,20 +189,17 @@
     </td>
      <td valign="top">
       <hr />
-      <h3>Scrooge Rental API</h3>
-      <a href="https://www.codacy.com/gh/BaiGanio/scrooge-rental-api/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/scrooge-rental-api&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/aa24e0312b994735a5335f96c2a461e9"/></a>
-    <p>Azure Cloud hosted, .NET 6 API supporting GraphQL & using free SQL Server from AppHarbor. Demo example of using Azure Service Bus & Azure Function to sparkle the picture.</p>
-      <br/>
-       <br/>
-      <a href="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png">
-        <img src="https://raw.githubusercontent.com/BaiGanio/scrooge-rental-api/master/Docs/scrooge_rental_microservices.png" width="100%" alt="scrooge-rental"/>
+      <h3>Working on it...</h3>
+      <p>N/A</p>
+      <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/refs/heads/master/images/reader.jpg">
+        <img src="./images/reader.jpg"" width="100%" alt="reader"/>
       </a>
       <hr />
-      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/scrooge-rental-api"><em>https://github.com/BaiGanio/scrooge-rental-api</em></a></p>
-      <p>(Site):  <a target="_blank" href="https://scrooge-rental-api.azurewebsites.net/graphql/"><em>https://scrooge-rental-api.azurewebsites.net/graphql</em></a></p>
+      <p>(Repo): N/A</p>
+      <p>(Site): N/A </p>
     </td>   
   </tr>  
-  <!-- END Scrooge Rental web and API project secrtion -->
+  <!-- END COSMIC ORIGINS section -->
  
 </table>
 
