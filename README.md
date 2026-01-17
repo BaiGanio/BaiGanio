@@ -290,7 +290,7 @@
 
 > **Aleko was "The Lucky One" not because of fortune, but because he believed in movement, progress, and public good.** 
 > Aleko created a character bigger than himself.
-> I'm creating a GitHub ecosystem bigger than a single repo — a living, self‑maintaining knowledge graph.
+> And like him, I'm creating a GitHub ecosystem bigger than a single repo — a living, self‑maintaining knowledge graph.
 
 <p align="right" style="font-size: 90%; opacity: 0.7;">
   <a href="#top">Back to top ↑</a>
