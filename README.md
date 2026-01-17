@@ -191,7 +191,7 @@
       <hr />
       <h3>Working on it...</h3>
       <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/refs/heads/master/images/lazy-nap.jpg">
-        <img src="./images/reader.jpg"" width="100%" alt="reader"/>
+        <img src="./images/lazy-nap.jpg"" width="100%" alt="reader"/>
       </a>
     </td>   
   </tr>  
