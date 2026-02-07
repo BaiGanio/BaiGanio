@@ -76,7 +76,7 @@
 </p>
 
 ---
-## Projects
+## PROJECTS
 <b>This section shows workbench projects available so far?!?!</b> 🤔<br/>
 ❗Read the README.md file in each repo, otherwise the working project might turn into broken one... ;) 😄
 
@@ -201,7 +201,7 @@
 
 ---
 
-## Books
+## BOOKS
 <div align="center">
 <table>
   <!-- HEADER ROW --> 
@@ -264,7 +264,7 @@
 
 ---
 
-## Articles
+## ARTICLES
 
 > **🐳 Docker & .NET Series**  
 > Practical guides for containerizing modern .NET applications.
@@ -278,7 +278,7 @@
 </p>
 
 
-## Why Bai Ganio?
+## WHY BAI GANIO?
 
 **📜 The Remark**
 
@@ -298,7 +298,7 @@
 
 ---
 
-## Me
+## ME
 
 <table>
 <tr>
