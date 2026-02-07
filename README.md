@@ -69,7 +69,7 @@
 
 --- 
 
-### 🛠 Tech Stack 
+<h3 align="center"> 🛠 Tech Stack </h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,angular,cs,dotnet,git,github,docker,azure,vscode" /> </p> 
 <p align="right" style="font-size: 90%; opacity: 0.7;">
   [<a href="#top">Back to top ↑</a>]
