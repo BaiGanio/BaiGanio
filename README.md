@@ -206,8 +206,9 @@
 <table>
   <!-- HEADER ROW --> 
   <tr> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version (free PDF)</th> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия (безплатен PDF)</th> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version</th> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия</th> 
+    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 Wiki Game Book</th> 
   </tr>
   <tr>
     <!-- English Version -->
@@ -255,6 +256,19 @@
        <a href="./files/book.pdf" download style="text-decoration:none;"> <div style=" display:inline-block; padding:8px 14px; background:#4caf50; color:white; border-radius:6px; font-size:14px; font-weight:600; "> ⬇️ Сваляне </div> </a>
        --> 
     </td>
+    <!-- Unkindled --> 
+    <td align="center" valign="top"> 
+      <a href="#"> <img src="./images/unkindled.png" width="320" height="260"> </a> 
+        <br><br> 
+        <strong>Unkindled</strong><br><br> 
+        <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; ">🐳 Docker & .NET Series</span> <br>
+        <small>Practical guides for containerizing modern .NET applications.</strong></small> <br><br> 
+        <!-- Progress Bar --> 
+        <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
+          <div style=" width:20%; background:#4caf50; height:100%; "></div> 
+        </div> 
+       <a href="./files/book.pdf" style="text-decoration:none;"><b>👉 ☠️ ENTER THE REALM</b></a>
+    </td>
   </tr>
 </table>
 </div>
@@ -262,7 +276,7 @@
   <a href="#top">Back to top ↑</a>
 </p>
 
----
+--- 
 
 ## ARTICLES
 
