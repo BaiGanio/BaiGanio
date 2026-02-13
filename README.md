@@ -255,8 +255,8 @@
       <a href="#"> <img src="./images/unkindled.png" width="320" height="260"> </a> 
         <br><br> 
         <strong>Unkindled</strong><br><br> 
-        <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; ">🐳 Docker & .NET Series</span> <br>
-        <small>🚀 Practical guides for containerizing modern .NET applications.</strong></small> <br><br> 
+        <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; ">Series on .NET, 🐳 Docker & ☸️ Kubernetes.</span> <br>
+        <small>Practical guides for containerizing and orchestrating modern .NET applications.</strong></small> <br><br> 
         <!-- Progress Bar --> 
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
           <div style=" width:20%; background:#4caf50; height:100%; "></div> 
