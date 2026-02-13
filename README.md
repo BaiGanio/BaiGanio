@@ -267,7 +267,7 @@
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
           <div style=" width:20%; background:#4caf50; height:100%; "></div> 
         </div> 
-       <a href="./files/book.pdf" style="text-decoration:none;"><b>👉 ☠️ ENTER THE REALM</b></a>
+       <a href="https://github.com/BaiGanio/unkindled/wiki)"><b>[ENTER THE REALM]</b></a>
     </td>
   </tr>
 </table>
