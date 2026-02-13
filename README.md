@@ -6,13 +6,7 @@
   [ <a href="#projects">PROJECTS</a> ]  
   · · ·
   [ <a href="#books">BOOKS</a> ]
-  <!--
-   · · ·
-  [ <a href="#about-me">ABOUT ME</a> ]
-  -->
-   · · ·
-  [ <a href="#articles">ARTICLES</a> ] 
-   · · ·
+  · · ·
   [ <a href="#why-bai-ganio">WHY BAI GANIO?</a> ] 
    · · ·
   [ <a href="#me">ME</a> ]
@@ -262,12 +256,12 @@
         <br><br> 
         <strong>Unkindled</strong><br><br> 
         <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; ">🐳 Docker & .NET Series</span> <br>
-        <small>Practical guides for containerizing modern .NET applications.</strong></small> <br><br> 
+        <small>🚀 Practical guides for containerizing modern .NET applications.</strong></small> <br><br> 
         <!-- Progress Bar --> 
         <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
           <div style=" width:20%; background:#4caf50; height:100%; "></div> 
         </div> 
-       <a href="https://github.com/BaiGanio/unkindled/wiki)"><b>[ENTER THE REALM]</b></a>
+       <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
     </td>
   </tr>
 </table>
@@ -277,20 +271,6 @@
 </p>
 
 --- 
-
-## ARTICLES
-
-> **🐳 Docker & .NET Series**  
-> Practical guides for containerizing modern .NET applications.
-
-- **🚀 Learn how to package and run a .NET console app inside Docker.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-console-app)
-- **⚡ Build and containerize a lightweight .NET Core API.** - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(MInimal-API-support))
-- **🔗 Add GraphQL support and ship it in a container.**  - [(more...)](https://github.com/BaiGanio/docker-k8s/wiki/Containerize-a-.NET-Core-API-(GraphQL-support))
-
-<p align="right" style="font-size: 90%; opacity: 0.7;">
-  <a href="#top">Back to top ↑</a>
-</p>
-
 
 ## WHY BAI GANIO?
 
