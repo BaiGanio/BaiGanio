@@ -254,12 +254,14 @@
     </td>
     <!-- Unkindled --> 
     <td align="center" valign="top"> 
+      <div style=" width: 320px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 20px; font-family: sans-serif; "> 
       <a href="#"> <img src="./images/unkindled.png" width="320" height="260"> </a> 
       <br><br> 
       <strong>Unkindled</strong><br><br> 
       Series on .NET, 🐳 Docker & ☸️ Kubernetes.<br>
       Practical guides for containerizing and orchestrating modern .NET applications.<br><br>        
       <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
+      </div>
     </td>
   </tr>
 </table>
