@@ -253,15 +253,11 @@
     <!-- Unkindled --> 
     <td align="center" valign="top"> 
       <a href="#"> <img src="./images/unkindled.png" width="320" height="260"> </a> 
-        <br><br> 
-        <strong>Unkindled</strong><br><br> 
-        <span style=" display:inline-block; background:#ffd54f; padding:2px 8px; border-radius:6px; font-size:12px; margin-top:6px; ">Series on .NET, 🐳 Docker & ☸️ Kubernetes.</span> <br>
-        <small>Practical guides for containerizing and orchestrating modern .NET applications.</strong></small> <br><br> 
-        <!-- Progress Bar --> 
-        <div style=" width:100%; background:#eee; border-radius:6px; height:12px; overflow:hidden; "> 
-          <div style=" width:20%; background:#4caf50; height:100%; "></div> 
-        </div> 
-       <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
+      <br><br> 
+      <strong>Unkindled</strong><br><br> 
+      Series on .NET, 🐳 Docker & ☸️ Kubernetes.<br>
+      Practical guides for containerizing and orchestrating modern .NET applications.<br><br>        
+      <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
     </td>
   </tr>
 </table>
