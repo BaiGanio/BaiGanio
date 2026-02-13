@@ -253,7 +253,7 @@
        --> 
     </td>
     <!-- Unkindled --> 
-    <td align="center" valign="top" width="360"> 
+    <td align="center" valign="top" width="350"> 
       <a href="#"> <img src="./images/unkindled.png" height="260"> </a> 
       <br><br> 
       <strong>Unkindled</strong><br><br> 
