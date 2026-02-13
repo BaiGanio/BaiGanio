@@ -25,7 +25,6 @@
   <br>
   · · · <b>Respect the divercity of the species. We are all unique.</b> · · ·
 </p>
-<br/>
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
