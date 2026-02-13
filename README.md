@@ -23,7 +23,7 @@
   <sub><b><i>(BBC News) <a href="https://www.bbc.com/news/in-pictures-35639575">In pictures: Sony World Photography Awards shortlist</a> &rarr; Andrey Narchuk's photograph of an inquisitive baby fur seal in the Bering Sea.</i></b></sub>
   <br>
   <br>
-  · · · <sub><b>Respect the divercity of the species. We are all unique.</b></sub> · · ·
+  · · · <b>Respect the divercity of the species. We are all unique.</b> · · ·
 </p>
 <br/>
 <p align="center"> 
