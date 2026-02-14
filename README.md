@@ -195,6 +195,10 @@
  
 </table>
 
+<p align="right" style="font-size: 90%; opacity: 0.7;">
+  <a href="#top">Back to top ↑</a>
+</p>
+
 ---
 
 ## BOOKS
