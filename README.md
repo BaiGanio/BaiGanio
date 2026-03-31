@@ -31,20 +31,17 @@
 
 <div align="center">
 
-   "The drop is not part of the ocean - the ocean is in the drop."<br>
-  <strong>Vedic Philosophy</strong><br>
+   "The drop is not part of the ocean - the ocean is in the drop."<br><strong>Vedic Philosophy</strong><br>
   · · ·<br>
   
-  "I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…"<br>
+  "I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them.<br>When I have to solve a complex problem, I make it simple first."<br>
   <strong>Unknown</strong><br>
   · · ·<br>
   
-  "At the crossroads of life there are no signposts".<br>
-  <strong>Charlie Chaplin</strong><br>
+  "At the crossroads of life there are no signposts".<br><strong>Charlie Chaplin</strong><br>
   · · ·<br>
 
-  "One has to ask a little to be able to pay the price."<br>
-  <strong>Vanga</strong><br>
+  "One has to ask a little to be able to pay the price."<br><strong>Vanga</strong><br>
   · · ·<br>
 </div>
 
