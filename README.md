@@ -83,7 +83,7 @@
 <table bordercolor="#66b2b2">
  <!-- START Free IS4 & BGAPI section -->                                                                              
   <tr>                                                                         
-    <td valign="top">
+    <td align="center" valign="top">
       <hr />
       <h2><em>Free IS4</em></h2>   
    <a href="https://www.codacy.com/gh/BaiGanio/Free-IS4/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/Free-IS4&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/6e3be1117d8e49a0a555790b78cf64af"/></a>  
@@ -95,7 +95,7 @@
       <p>(Repo): <a target="_blank" href="https://dev.azure.com/teamkepler/_git/Free-IS4"><em>https://dev.azure.com/teamkepler/_git/Free-IS4</em></a></p>
       <p>(Site): <a target="_blank" href="https://free-is4.azurewebsites.net/"><em>https://free-is4.azurewebsites.net</em></a></p>
     </td>
-    <td valign="top">
+    <td align="center" valign="top">
       <hr />
       <h2><em>BGAPI</em></h2>     
      .NET 6 Web API supporting GraphQL designed to allows BaiGanio, BackOffice & other public clients to fetch & manipulate public data. Hosted and lives in Azure Cloud, manages data via Azure SQL Server, Firebase NoSQL database as well as Cosmos DB.
@@ -110,7 +110,7 @@
   <!-- END Free IS4 & BGAPI section -->  
     <!-- START BaiGanio & Looney Tooney --> 
    <tr>                                                                         
-    <td valign="top">
+    <td align="center" valign="top">
       <hr />
       <h2><em>baiganio.github.io</em></h2>
          <a href="https://www.codacy.com/gh/BaiGanio/baiganio.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/baiganio.github.io&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43992e753d15400c98b7dd86327d9ecb"/></a>
@@ -123,7 +123,7 @@
       <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/baiganio.github.io"><em>https://github.com/BaiGanio/baiganio.github.io</em></a></p>
       <p>(Site): <a target="_blank" href="https:/baiganio.github.io/"><em>https:/baiganio.github.io</em></a></p>
     </td>
-    <td valign="top">
+    <td align="center" valign="top">
       <hr />
          <h2><em>Looney Tooney</em></h2>  
       <a href="https://www.codacy.com/gh/Team-Kepler/looney-tooney/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Team-Kepler/looney-tooney&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/9ad3b883ce9f469e9513879d79795662"/></a>   
@@ -139,7 +139,7 @@
   <!-- END BaiGanio & Looney Tooney--> 
   <!-- START Scrooge Rental web and API project secrtion -->
   <tr>
-    <td valign="top">
+    <td align="center" valign="top">
       <hr />
       <h3>Scrooge Rental</h3>
       <a href="https://www.codacy.com/gh/BaiGanio/Scrooge-Rental/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BaiGanio/Scrooge-Rental&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/18935d55f1764bf595a96ccaadb93aeb"/></a>
@@ -171,9 +171,9 @@
     </td>   
   </tr>  
   <!-- END Scrooge Rental web and API project secrtion -->
-   <!-- START COSMIC ORIGINS section -->
+   <!-- START COSMIC ORIGINS and Aperio section -->
   <tr>
-    <td valign="top">
+    <td align="center" valign="top">
       <hr />
       <h3>Cosmic Origins</h3>
         <p>Exoplanets and moons, nebulas, galaxies - just name it.
@@ -187,7 +187,37 @@
       <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/cosmic-origins"><em>https://github.com/BaiGanio/cosmic-origins</em></a> </p>
       <p>(Site): <a target="_blank" href="https://baiganio.github.io/cosmic-origins"><em>https://baiganio.github.io/cosmic-origins<em></a></p>
     </td>
-     <td valign="top">
+    <!-- Aperio --> 
+    <td align="center" valign="top">
+      <hr />
+      <h3>Aperio</h3>
+        <p>Personal memory layer for AI agents. <br/><br/>// TODO: explain more...<br></p>
+      <br/>
+      <br/>
+      <a href="https://baiganio.github.io/aperio/">
+        <img src="./images/aperio.png" width="100%" alt="Aperio"/>
+      </a>
+      <hr />
+      <p>(Repo): <a target="_blank" href="https://github.com/BaiGanio/cosmic-origins"><em>https://github.com/BaiGanio/aperio</em></a> </p>
+      <p>(Site): <a target="_blank" href="https://baiganio.github.io/cosmic-origins"><em>https://baiganio.github.io/aperio<em></a></p>
+    </td>
+  </tr>  
+  <!-- END COSMIC ORIGINS and Aperio section -->
+  <!-- START Unkindled and Working on it section -->
+  <tr>
+    <!-- Unkindled --> 
+    <td align="center" valign="top"> 
+      <hr />
+      <h3>Unkindled</h3>
+      <a href="#"> <img src="./images/unkindled.png" height="260"> </a> 
+      <br><br> 
+      Series on .NET, 🐳 Docker & ☸️ Kubernetes.<br>
+      Practical guides for containerizing and orchestrating modern .NET applications.<br><br>        
+      <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
+      <br><br> 
+    </td>
+    <!-- Working on it --> 
+    <td align="center" valign="top">
       <hr />
       <h3>Working on it...</h3>
       <a href="https://raw.githubusercontent.com/BaiGanio/BaiGanio/refs/heads/master/images/lazy-nap.jpg">
@@ -195,11 +225,10 @@
       </a>
     </td>   
   </tr>  
-  <!-- END COSMIC ORIGINS section -->
- 
+  <!-- END Unkindled and Working on it section -->
 </table>
 
-<p align="right" style="font-size: 90%; opacity: 0.7;">
+<p align="right">
   <a href="#top">Back to top ↑</a>
 </p>
 
@@ -259,16 +288,7 @@
       <!-- Download Button
        <a href="./files/book.pdf" download style="text-decoration:none;"> <div style=" display:inline-block; padding:8px 14px; background:#4caf50; color:white; border-radius:6px; font-size:14px; font-weight:600; "> ⬇️ Сваляне </div> </a>
        --> 
-    </td>
-    <!-- Unkindled --> 
-    <td align="center" valign="top" width="350"> 
-      <a href="#"> <img src="./images/unkindled.png" height="260"> </a> 
-      <br><br> 
-      <strong>Unkindled</strong><br><br> 
-      Series on .NET, 🐳 Docker & ☸️ Kubernetes.<br>
-      Practical guides for containerizing and orchestrating modern .NET applications.<br><br>        
-      <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
-    </td>
+    </td>   
   </tr>
 </table>
 </div>
