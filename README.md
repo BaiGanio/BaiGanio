@@ -29,17 +29,21 @@
    <img src="https://komarev.com/ghpvc/?username=BaiGanio&style=for-the-badge&base=5000&color=blueviolet" alt="Portfolio Site" />
 </p>
 
-<div align="center" line-height: 1.35;">
+<div align="center">
 
-  “I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…”<br>
+   "The drop is not part of the ocean - the ocean is in the drop."<br>
+  <strong>Vedic Philosophy</strong><br>
+  · · ·<br>
+  
+  "I've seen a people who can solve a complex problems, and I admire them. But, I'm not one of them. When I have to solve a complex problem, I make it simple first…"<br>
   <strong>Unknown</strong><br>
   · · ·<br>
   
-  “At the crossroads of life there are no signposts.”<br>
+  "At the crossroads of life there are no signposts".<br>
   <strong>Charlie Chaplin</strong><br>
   · · ·<br>
 
-  “One has to ask a little to be able to pay the price.”<br>
+  "One has to ask a little to be able to pay the price."<br>
   <strong>Vanga</strong><br>
   · · ·<br>
 </div>
