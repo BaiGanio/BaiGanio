@@ -191,7 +191,7 @@
     <td align="center" valign="top">
       <hr />
       <h3>Aperio</h3>
-        <p>Personal memory layer for AI agents. <br/><br/>// TODO: explain more...<br></p>
+        <p>Personal memory layer for AI agents. <br/><br/>// TODO: explain more...<br><br/></p>
       <br/>
       <br/>
       <a href="https://baiganio.github.io/aperio/">
@@ -210,7 +210,7 @@
       <hr />
       <h3>Unkindled</h3>
       <a href="#"> <img src="./images/unkindled.png" height="260"> </a> 
-      <br><br> 
+      <br>🇬🇧 Wiki Game Book<br><br> 
       Series on .NET, 🐳 Docker & ☸️ Kubernetes.<br>
       Practical guides for containerizing and orchestrating modern .NET applications.<br><br>        
       <a href="https://github.com/BaiGanio/unkindled/wiki"><b>[ENTER THE REALM]</b></a>
@@ -241,7 +241,6 @@
   <tr> 
     <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 English Version</th> 
     <th align="center" style="padding: 10px; font-size: 18px;">🇧🇬 Българска версия</th> 
-    <th align="center" style="padding: 10px; font-size: 18px;">🇬🇧 Wiki Game Book</th> 
   </tr>
   <tr>
     <!-- English Version -->
