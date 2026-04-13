@@ -188,7 +188,11 @@
     <td align="center" valign="top">
       <hr />
       <h3>Aperio</h3>
-        <p>Personal memory layer for AI agents. <br/><br/>// TODO: explain more...<br><br/></p>
+        <a href="https://app.codacy.com/gh/BaiGanio/aperio/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/989578993b87414db9ff64a2b3c22989"/></a>
+     <a href="https://codecov.io/gh/BaiGanio/aperio" > 
+ <img src="https://codecov.io/gh/BaiGanio/aperio/graph/badge.svg?token=WUIXIYJBR2"/> 
+ </a>
+        <p>Personal memory layer for AI agents. <br/><br/>// TODO: explain more...<br></p>
       <br/>
       <br/>
       <a href="https://baiganio.github.io/aperio/">
