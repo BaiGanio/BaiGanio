@@ -5,7 +5,9 @@
   · · ·
   [ <a href="#projects">PROJECTS</a> ]  
   · · ·
-  [ <a href="#books">BOOKS</a> ]
+  [ <a href="#books">BOOKS</a> ] 
+  · · ·
+  [ <a href="https://baiganio.github.io/journal">JOURNAL</a> ]
   · · ·
   [ <a href="#why-bai-ganio">WHY BAI GANIO?</a> ] 
    · · ·
